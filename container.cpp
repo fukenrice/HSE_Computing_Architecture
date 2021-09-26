@@ -39,7 +39,7 @@ void InRnd(container &c, int size){
 void Out(container &c, ofstream &ofst){
     ofst << "Container contains " << c.len << " elements." << endl;
     for(int i = 0; i < c.len; i++) {
-        ofst << i << ": ";
+        ofst << i + 1 << ": ";
         Out(*(c.cont[i]), ofst);
     }
 }

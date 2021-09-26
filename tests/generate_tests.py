@@ -23,7 +23,7 @@ def generate_data(filename: str, num: int):
             y2 = random.randint(-100, y1)
             while abs(x2 - x1) * abs(y1 - y2) == 0:
                 x2 = random.randint(x1, 100) + 1
-                y2 = random.randint(-100, y1) + 1
+                y2 = random.randint(-100, y1) - 1
             file.write(f"{x1} {y1} {x2} {y2} {color_index}\n")
         elif figure == 2:
             file.write(f"{figure}\n")
@@ -49,4 +49,5 @@ def generate_data(filename: str, num: int):
 
 
 if __name__ == '__main__':
-    generate_data("test_10000_elements.txt", 10000)
+    generate_data("test_5_elements.txt", 5)
+    print("done")

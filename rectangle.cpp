@@ -8,6 +8,9 @@
 // Ввод параметров прямоугольника из файла
 void In(rectangle &r, ifstream &ifst) {
     ifst >> r.x1 >> r.y1 >> r.x2 >> r.y2 >> r.color_index;
+    if (r.x1 >= r.x2 || r.y1 <= r.y2){
+        throw invalid_argument("Rectangles' left point should be upper and lefter, than right point");
+    }
 }
 
 // Случайный ввод параметров прямоугольника
@@ -18,7 +21,7 @@ void InRnd(rectangle &r) {
     r.y2 = Random(-100, r.y1);
     while (Area(r) == 0) {
         r.x2 = Random(r.x1, 100) + 1;
-        r.y2 = Random(-100, r.y1) + 1;
+        r.y2 = Random(-100, r.y1) - 1;
     }
     r.color_index = Random(0, 6);
 }

@@ -7,6 +7,10 @@
 // Ввод параметров треугольника из файла
 void In(circle &c, ifstream &ifst){
     ifst >> c.x1 >> c.y1 >> c.radius >> c.color_index;
+
+    if (c.radius <= 0) {
+        throw invalid_argument("Circle radius is less then zero");
+    }
 }
 
 // Случайный ввод круга треугольника

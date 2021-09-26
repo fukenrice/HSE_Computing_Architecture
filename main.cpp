@@ -33,10 +33,15 @@ int main(int argc, char* argv[]) {
     container c;
     Init(c);
 
-    ////cout << "argv[1] = " << argv[1] << "\n";
     if(!strcmp(argv[1], "-f")) {
         ifstream ifst(argv[2]);
-        In(c, ifst);
+        try {
+            In(c, ifst);
+        }
+        catch (invalid_argument c){
+            std::cout << c.what();
+            return 3;
+        }
     }
     else if(!strcmp(argv[1], "-n")) {
         auto size = atoi(argv[2]);

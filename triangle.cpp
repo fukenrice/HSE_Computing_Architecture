@@ -8,6 +8,9 @@
 // Ввод параметров треугольника из файла
 void In(triangle &t, ifstream &ifst){
     ifst >> t.x1 >> t.y1 >> t.x2 >> t.y2 >> t.x3 >> t.y3 >> t.color_index;
+    if (Area(t) == 0){
+        throw invalid_argument("Triangles' area can't be 0");
+    }
 }
 
 // Случайный ввод параметров треугольника
