@@ -1,25 +1,25 @@
-#include <iostream>
+#include <stdio.h>
 #include <fstream>
-#include <cstdlib> // для функций rand() и srand()
-#include <ctime>   // для функции time()
-#include <cstring>
+#include <stdlib.h> // для функций rand() и srand()
+#include <time.h>   // для функции time()
+#include <string.h>
 
 #include "container.h"
 
 void errMessage1() {
-    cout << "incorrect command line!\n"
+    printf( "incorrect command line!\n"
             "  Waited:\n"
             "     command -f infile outfile01 outfile02\n"
             "  Or:\n"
-            "     command -n number outfile01 outfile02\n";
+            "     command -n number outfile01 outfile02\n");
 }
 
 void errMessage2() {
-    cout << "incorrect qualifier value!\n"
+    printf("incorrect qualifier value!\n"
             "  Waited:\n"
             "     command -f infile outfile01 outfile02\n"
             "  Or:\n"
-            "     command -n number outfile01 outfile02\n";
+            "     command -n number outfile01 outfile02\n");
 }
 
 //------------------------------------------------------------------------------
@@ -28,8 +28,7 @@ int main(int argc, char* argv[]) {
         errMessage1();
         return 1;
     }
-
-    cout << "Start"<< endl;
+    printf("Start\n");
     container c;
     Init(c);
 
@@ -39,16 +38,18 @@ int main(int argc, char* argv[]) {
             In(c, ifst);
         }
         catch (invalid_argument c){
-            std::cout << c.what();
+            std::printf(c.what());
             return 3;
         }
     }
+
     else if(!strcmp(argv[1], "-n")) {
         auto size = atoi(argv[2]);
+
         if((size < 1) || (size > 10000)) {
-            cout << "incorrect numer of figures = "
-                 << size
-                 << ". Set 0 < number <= 10000\n";
+            printf("%s %i %s",
+                    "incorrect numer of figures =", size,
+                   ". Set 0 < number <= 10000\n");
             return 3;
         }
         // системные часы в качестве инициализатора
@@ -74,6 +75,6 @@ int main(int argc, char* argv[]) {
     Out(c, ofst2);
 
     //Clear(c);
-    cout << "Stop"<< endl;
+    printf("Stop\n");
     return 0;
 }
