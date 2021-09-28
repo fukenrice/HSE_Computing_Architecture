@@ -45,9 +45,10 @@ def generate_data(filename: str, num: int):
             while radius == 0:
                 radius = random.randint(1, 100)
             file.write(f"{x1} {y1} {radius} {color_index}\n")
+            file.write('0');
     file.close()
 
 
 if __name__ == '__main__':
-    generate_data("test_5_elements.txt", 5)
+    generate_data("test_10000_elements.txt", 10000)
     print("done")
