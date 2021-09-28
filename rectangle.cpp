@@ -55,7 +55,7 @@ void Out(rectangle &r, ofstream &ofst) {
             color = "violet";
             break;
         default:
-            color = "";
+            color = "none";
     }
     ofst << "It is Rectangle: (x1, y1) = (" << r.x1 << ", "
     << r.y1 << ") (x2, y2)= (" << r.x2 << ", " << r.y2

@@ -51,7 +51,7 @@ void Out(circle &c, ofstream &ofst){
             color = "violet";
             break;
         default:
-            color = "";
+            color = "none";
     }
             ofst << "It is circle: (x1, x2) = (" << c.x1
     << ", " << c.y1 << ") with radius = "

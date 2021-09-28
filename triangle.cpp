@@ -56,7 +56,7 @@ void Out(triangle &t, ofstream &ofst){
             color = "violet";
             break;
         default:
-            color = "";
+            color = "none";
             break;
     }
 
