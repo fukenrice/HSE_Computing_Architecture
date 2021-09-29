@@ -1,0 +1,1002 @@
+Filled container:
+Container contains 1000 elements.
+1: It is Triangle: (x1, x2) = (-55, 59) (x2, y2) = (95, -47) (x3, y3) = (-83, -89). Color: violet. Area = 12584
+2: It is Rectangle: (x1, y1) = (66, -48) (x2, y2)= (97, -97). Color: orange. Area = 1519
+3: It is Triangle: (x1, x2) = (48, -58) (x2, y2) = (54, 37) (x3, y3) = (-39, -9). Color: violet. Area = 4279.5
+4: It is Rectangle: (x1, y1) = (-3, -74) (x2, y2)= (96, -100). Color: yellow. Area = 2574
+5: It is circle: (x1, x2) = (24, -2) with radius = 93. Color: violet. Area = 27171.6
+6: It is circle: (x1, x2) = (-25, 66) with radius = 88. Color: none. Area = 24328.5
+7: It is Rectangle: (x1, y1) = (-90, 64) (x2, y2)= (-31, -1). Color: dark blue. Area = 3835
+8: It is Rectangle: (x1, y1) = (-79, 92) (x2, y2)= (-63, -6). Color: none. Area = 1568
+9: It is Triangle: (x1, x2) = (-49, -79) (x2, y2) = (-39, 40) (x3, y3) = (-46, -31). Color: dark blue. Area = 61.5
+10: It is Triangle: (x1, x2) = (10, 1) (x2, y2) = (-43, -58) (x3, y3) = (-34, 59). Color: orange. Area = 2835
+11: It is Rectangle: (x1, y1) = (1, -68) (x2, y2)= (77, -84). Color: orange. Area = 1216
+12: It is Triangle: (x1, x2) = (86, 15) (x2, y2) = (-17, 48) (x3, y3) = (-90, 15). Color: red. Area = 2904
+13: It is Rectangle: (x1, y1) = (74, -23) (x2, y2)= (93, -44). Color: blue. Area = 399
+14: It is Triangle: (x1, x2) = (26, -2) (x2, y2) = (-55, -42) (x3, y3) = (99, 20). Color: violet. Area = 569
+15: It is Triangle: (x1, x2) = (-62, -57) (x2, y2) = (-28, 5) (x3, y3) = (19, -24). Color: blue. Area = 1950
+16: It is Triangle: (x1, x2) = (73, 64) (x2, y2) = (93, -59) (x3, y3) = (42, 57). Color: blue. Area = 1976.5
+17: It is Triangle: (x1, x2) = (-3, -66) (x2, y2) = (-33, -14) (x3, y3) = (48, -67). Color: violet. Area = 1311
+18: It is Triangle: (x1, x2) = (-51, 0) (x2, y2) = (34, 25) (x3, y3) = (-35, 41). Color: orange. Area = 1542.5
+19: It is Rectangle: (x1, y1) = (14, -74) (x2, y2)= (62, -92). Color: red. Area = 864
+20: It is Triangle: (x1, x2) = (-26, -100) (x2, y2) = (58, -77) (x3, y3) = (61, 17). Color: yellow. Area = 3913.5
+21: It is Rectangle: (x1, y1) = (-44, 88) (x2, y2)= (50, 20). Color: dark blue. Area = 6392
+22: It is Rectangle: (x1, y1) = (73, -48) (x2, y2)= (76, -99). Color: blue. Area = 153
+23: It is circle: (x1, x2) = (-5, -68) with radius = 72. Color: red. Area = 16286
+24: It is circle: (x1, x2) = (87, 0) with radius = 80. Color: red. Area = 20106.2
+25: It is Triangle: (x1, x2) = (-75, 59) (x2, y2) = (-76, -63) (x3, y3) = (40, 44). Color: green. Area = 7022.5
+26: It is Triangle: (x1, x2) = (-83, -79) (x2, y2) = (-36, 60) (x3, y3) = (64, 19). Color: none. Area = 7913.5
+27: It is Rectangle: (x1, y1) = (28, 64) (x2, y2)= (70, -46). Color: dark blue. Area = 4620
+28: It is Rectangle: (x1, y1) = (-85, -40) (x2, y2)= (29, -65). Color: yellow. Area = 2850
+29: It is Triangle: (x1, x2) = (-23, 86) (x2, y2) = (56, 66) (x3, y3) = (100, -89). Color: dark blue. Area = 5682.5
+30: It is Triangle: (x1, x2) = (-33, -30) (x2, y2) = (55, 28) (x3, y3) = (68, 100). Color: dark blue. Area = 2791
+31: It is circle: (x1, x2) = (63, 15) with radius = 42. Color: yellow. Area = 5541.77
+32: It is Rectangle: (x1, y1) = (81, 42) (x2, y2)= (85, -28). Color: red. Area = 280
+33: It is Rectangle: (x1, y1) = (45, 29) (x2, y2)= (48, 4). Color: red. Area = 75
+34: It is Rectangle: (x1, y1) = (-43, -97) (x2, y2)= (-8, -99). Color: yellow. Area = 70
+35: It is Rectangle: (x1, y1) = (-38, -26) (x2, y2)= (58, -64). Color: orange. Area = 3648
+36: It is Triangle: (x1, x2) = (-11, -40) (x2, y2) = (1, -83) (x3, y3) = (-19, -56). Color: none. Area = 268
+37: It is Triangle: (x1, x2) = (11, 25) (x2, y2) = (-64, -98) (x3, y3) = (86, 52). Color: orange. Area = 3600
+38: It is Triangle: (x1, x2) = (-92, -28) (x2, y2) = (68, -67) (x3, y3) = (-89, -26). Color: violet. Area = 218.5
+39: It is circle: (x1, x2) = (-28, 95) with radius = 88. Color: none. Area = 24328.5
+40: It is Triangle: (x1, x2) = (88, 43) (x2, y2) = (-90, 42) (x3, y3) = (-29, -67). Color: red. Area = 9731.5
+41: It is Rectangle: (x1, y1) = (-32, 23) (x2, y2)= (46, -17). Color: violet. Area = 3120
+42: It is Rectangle: (x1, y1) = (-29, 35) (x2, y2)= (-9, 15). Color: red. Area = 400
+43: It is Rectangle: (x1, y1) = (-87, -48) (x2, y2)= (-68, -61). Color: none. Area = 247
+44: It is Triangle: (x1, x2) = (27, -25) (x2, y2) = (93, 93) (x3, y3) = (-34, -60). Color: green. Area = 2444
+45: It is Triangle: (x1, x2) = (-47, -21) (x2, y2) = (65, 20) (x3, y3) = (-11, -25). Color: green. Area = 962
+46: It is circle: (x1, x2) = (-12, 1) with radius = 20. Color: green. Area = 1256.64
+47: It is Rectangle: (x1, y1) = (-85, 63) (x2, y2)= (97, -65). Color: blue. Area = 23296
+48: It is Rectangle: (x1, y1) = (68, 67) (x2, y2)= (87, 19). Color: green. Area = 912
+49: It is circle: (x1, x2) = (-13, 52) with radius = 92. Color: violet. Area = 26590.4
+50: It is Rectangle: (x1, y1) = (-53, 0) (x2, y2)= (-36, -63). Color: yellow. Area = 1071
+51: It is circle: (x1, x2) = (70, -83) with radius = 76. Color: violet. Area = 18145.8
+52: It is Rectangle: (x1, y1) = (-96, -41) (x2, y2)= (4, -78). Color: yellow. Area = 3700
+53: It is Triangle: (x1, x2) = (-61, 99) (x2, y2) = (-96, 93) (x3, y3) = (-44, 9). Color: green. Area = 1626
+54: It is Triangle: (x1, x2) = (63, -87) (x2, y2) = (-94, -84) (x3, y3) = (-8, -55). Color: red. Area = 2405.5
+55: It is Triangle: (x1, x2) = (100, 67) (x2, y2) = (-54, 68) (x3, y3) = (-39, -90). Color: blue. Area = 12158.5
+56: It is Rectangle: (x1, y1) = (72, -28) (x2, y2)= (100, -67). Color: blue. Area = 1092
+57: It is Triangle: (x1, x2) = (1, -57) (x2, y2) = (34, 28) (x3, y3) = (27, -27). Color: green. Area = 610
+58: It is Rectangle: (x1, y1) = (-13, 37) (x2, y2)= (90, 19). Color: blue. Area = 1854
+59: It is circle: (x1, x2) = (-47, 55) with radius = 68. Color: orange. Area = 14526.7
+60: It is Rectangle: (x1, y1) = (99, 18) (x2, y2)= (100, -17). Color: red. Area = 35
+61: It is Rectangle: (x1, y1) = (-65, 90) (x2, y2)= (-26, 76). Color: violet. Area = 546
+62: It is circle: (x1, x2) = (-51, -48) with radius = 88. Color: none. Area = 24328.5
+63: It is Rectangle: (x1, y1) = (-69, 59) (x2, y2)= (-68, -74). Color: dark blue. Area = 133
+64: It is circle: (x1, x2) = (-82, -71) with radius = 1. Color: dark blue. Area = 3.14159
+65: It is Triangle: (x1, x2) = (2, 34) (x2, y2) = (34, 26) (x3, y3) = (55, 46). Color: orange. Area = 404
+66: It is Triangle: (x1, x2) = (84, -59) (x2, y2) = (-70, 16) (x3, y3) = (-43, -7). Color: red. Area = 758.5
+67: It is Rectangle: (x1, y1) = (-85, 14) (x2, y2)= (94, -59). Color: blue. Area = 13067
+68: It is Rectangle: (x1, y1) = (30, 86) (x2, y2)= (31, 38). Color: blue. Area = 48
+69: It is Triangle: (x1, x2) = (6, -89) (x2, y2) = (36, 48) (x3, y3) = (29, 93). Color: orange. Area = 1154.5
+70: It is circle: (x1, x2) = (-19, 86) with radius = 57. Color: blue. Area = 10207
+71: It is circle: (x1, x2) = (-35, 10) with radius = 62. Color: violet. Area = 12076.3
+72: It is circle: (x1, x2) = (14, 15) with radius = 76. Color: none. Area = 18145.8
+73: It is circle: (x1, x2) = (-9, -45) with radius = 85. Color: red. Area = 22698
+74: It is Rectangle: (x1, y1) = (-62, 52) (x2, y2)= (-38, -52). Color: green. Area = 2496
+75: It is Triangle: (x1, x2) = (-93, 40) (x2, y2) = (-80, -34) (x3, y3) = (46, -2). Color: none. Area = 4870
+76: It is circle: (x1, x2) = (-72, 26) with radius = 15. Color: violet. Area = 706.858
+77: It is Triangle: (x1, x2) = (18, 57) (x2, y2) = (98, -48) (x3, y3) = (-14, -37). Color: red. Area = 5440
+78: It is Rectangle: (x1, y1) = (-22, 30) (x2, y2)= (99, -46). Color: yellow. Area = 9196
+79: It is Triangle: (x1, x2) = (-13, -68) (x2, y2) = (-90, 34) (x3, y3) = (-10, -42). Color: red. Area = 1154
+80: It is Triangle: (x1, x2) = (-79, 30) (x2, y2) = (-34, 3) (x3, y3) = (-51, -18). Color: orange. Area = 702
+81: It is Rectangle: (x1, y1) = (9, -30) (x2, y2)= (97, -92). Color: blue. Area = 5456
+82: It is Triangle: (x1, x2) = (-14, -64) (x2, y2) = (2, 11) (x3, y3) = (-22, 77). Color: yellow. Area = 1428
+83: It is Triangle: (x1, x2) = (90, -12) (x2, y2) = (37, -84) (x3, y3) = (-74, 100). Color: blue. Area = 8872
+84: It is circle: (x1, x2) = (-35, -3) with radius = 58. Color: green. Area = 10568.3
+85: It is circle: (x1, x2) = (58, 55) with radius = 56. Color: yellow. Area = 9852.03
+86: It is Triangle: (x1, x2) = (-90, -15) (x2, y2) = (31, 28) (x3, y3) = (-89, -9). Color: blue. Area = 341.5
+87: It is Triangle: (x1, x2) = (17, 33) (x2, y2) = (-10, 48) (x3, y3) = (-30, -83). Color: green. Area = 1918.5
+88: It is circle: (x1, x2) = (-60, 82) with radius = 23. Color: yellow. Area = 1661.9
+89: It is Rectangle: (x1, y1) = (-77, -95) (x2, y2)= (31, -97). Color: yellow. Area = 216
+90: It is Rectangle: (x1, y1) = (37, -10) (x2, y2)= (39, -24). Color: violet. Area = 28
+91: It is Rectangle: (x1, y1) = (22, 90) (x2, y2)= (67, 55). Color: none. Area = 1575
+92: It is circle: (x1, x2) = (0, 83) with radius = 8. Color: violet. Area = 201.062
+93: It is circle: (x1, x2) = (-3, -66) with radius = 92. Color: red. Area = 26590.4
+94: It is circle: (x1, x2) = (-27, 77) with radius = 31. Color: orange. Area = 3019.07
+95: It is Triangle: (x1, x2) = (84, 100) (x2, y2) = (-4, 74) (x3, y3) = (-38, 26). Color: dark blue. Area = 1670
+96: It is Rectangle: (x1, y1) = (-40, 33) (x2, y2)= (-24, -32). Color: none. Area = 1040
+97: It is Triangle: (x1, x2) = (-52, -7) (x2, y2) = (-96, 42) (x3, y3) = (23, 52). Color: orange. Area = 3135.5
+98: It is circle: (x1, x2) = (-31, -52) with radius = 18. Color: blue. Area = 1017.88
+99: It is Rectangle: (x1, y1) = (-79, -8) (x2, y2)= (-38, -78). Color: red. Area = 2870
+100: It is Rectangle: (x1, y1) = (-39, 62) (x2, y2)= (37, -36). Color: violet. Area = 7448
+101: It is circle: (x1, x2) = (66, 72) with radius = 64. Color: green. Area = 12868
+102: It is Rectangle: (x1, y1) = (0, -67) (x2, y2)= (58, -90). Color: dark blue. Area = 1334
+103: It is circle: (x1, x2) = (48, -67) with radius = 55. Color: red. Area = 9503.32
+104: It is circle: (x1, x2) = (-37, 100) with radius = 11. Color: yellow. Area = 380.133
+105: It is Rectangle: (x1, y1) = (-77, 40) (x2, y2)= (-12, -17). Color: violet. Area = 3705
+106: It is circle: (x1, x2) = (-49, -58) with radius = 32. Color: red. Area = 3216.99
+107: It is Triangle: (x1, x2) = (55, 96) (x2, y2) = (39, 97) (x3, y3) = (42, -11). Color: none. Area = 862.5
+108: It is circle: (x1, x2) = (-92, -3) with radius = 29. Color: blue. Area = 2642.08
+109: It is Rectangle: (x1, y1) = (94, -53) (x2, y2)= (95, -68). Color: dark blue. Area = 15
+110: It is circle: (x1, x2) = (18, 37) with radius = 10. Color: violet. Area = 314.159
+111: It is Triangle: (x1, x2) = (-47, 2) (x2, y2) = (76, -31) (x3, y3) = (27, -21). Color: red. Area = 193.5
+112: It is circle: (x1, x2) = (-61, -100) with radius = 83. Color: yellow. Area = 21642.4
+113: It is Triangle: (x1, x2) = (-40, 44) (x2, y2) = (-77, -88) (x3, y3) = (39, -44). Color: orange. Area = 6842
+114: It is Triangle: (x1, x2) = (-23, -12) (x2, y2) = (-92, -70) (x3, y3) = (-99, 47). Color: orange. Area = 4239.5
+115: It is Triangle: (x1, x2) = (30, 8) (x2, y2) = (-13, -78) (x3, y3) = (82, -22). Color: red. Area = 2881
+116: It is Rectangle: (x1, y1) = (66, 96) (x2, y2)= (82, 94). Color: blue. Area = 32
+117: It is Rectangle: (x1, y1) = (-63, -45) (x2, y2)= (-39, -75). Color: violet. Area = 720
+118: It is Triangle: (x1, x2) = (67, 20) (x2, y2) = (-62, -33) (x3, y3) = (35, -34). Color: none. Area = 2635
+119: It is circle: (x1, x2) = (57, -42) with radius = 81. Color: violet. Area = 20612
+120: It is circle: (x1, x2) = (-39, 14) with radius = 52. Color: red. Area = 8494.87
+121: It is Rectangle: (x1, y1) = (-96, 40) (x2, y2)= (-12, 6). Color: orange. Area = 2856
+122: It is circle: (x1, x2) = (91, 81) with radius = 10. Color: blue. Area = 314.159
+123: It is circle: (x1, x2) = (81, -73) with radius = 72. Color: orange. Area = 16286
+124: It is circle: (x1, x2) = (94, 42) with radius = 66. Color: violet. Area = 13684.8
+125: It is Rectangle: (x1, y1) = (67, -95) (x2, y2)= (68, -96). Color: dark blue. Area = 1
+126: It is Rectangle: (x1, y1) = (-51, -5) (x2, y2)= (-33, -81). Color: blue. Area = 1368
+127: It is Rectangle: (x1, y1) = (5, 41) (x2, y2)= (61, -42). Color: none. Area = 4648
+128: It is Triangle: (x1, x2) = (3, -66) (x2, y2) = (80, 49) (x3, y3) = (-3, -8). Color: blue. Area = 2578
+129: It is Triangle: (x1, x2) = (-92, 95) (x2, y2) = (70, -39) (x3, y3) = (-76, 46). Color: red. Area = 2897
+130: It is circle: (x1, x2) = (-45, 56) with radius = 13. Color: dark blue. Area = 530.929
+131: It is Rectangle: (x1, y1) = (79, 92) (x2, y2)= (92, 47). Color: orange. Area = 585
+132: It is Triangle: (x1, x2) = (-80, -57) (x2, y2) = (-51, -58) (x3, y3) = (-23, -62). Color: none. Area = 44
+133: It is Rectangle: (x1, y1) = (-93, -17) (x2, y2)= (-16, -43). Color: dark blue. Area = 2002
+134: It is Rectangle: (x1, y1) = (-38, -77) (x2, y2)= (72, -90). Color: none. Area = 1430
+135: It is Triangle: (x1, x2) = (40, 98) (x2, y2) = (93, 24) (x3, y3) = (-84, -100). Color: blue. Area = 9835
+136: It is circle: (x1, x2) = (-7, -92) with radius = 36. Color: none. Area = 4071.5
+137: It is Triangle: (x1, x2) = (-87, 81) (x2, y2) = (20, 90) (x3, y3) = (58, 74). Color: none. Area = 1027
+138: It is Triangle: (x1, x2) = (58, 59) (x2, y2) = (17, 8) (x3, y3) = (33, 43). Color: dark blue. Area = 309.5
+139: It is Triangle: (x1, x2) = (8, 58) (x2, y2) = (29, -91) (x3, y3) = (90, -70). Color: orange. Area = 4765
+140: It is Triangle: (x1, x2) = (34, 87) (x2, y2) = (74, -71) (x3, y3) = (-72, -64). Color: dark blue. Area = 11394
+141: It is circle: (x1, x2) = (-51, 91) with radius = 17. Color: orange. Area = 907.92
+142: It is Triangle: (x1, x2) = (-7, 16) (x2, y2) = (-3, 47) (x3, y3) = (-43, 71). Color: orange. Area = 668
+143: It is Triangle: (x1, x2) = (6, 92) (x2, y2) = (-17, 25) (x3, y3) = (-16, 85). Color: blue. Area = 656.5
+144: It is circle: (x1, x2) = (41, 9) with radius = 86. Color: yellow. Area = 23235.2
+145: It is circle: (x1, x2) = (97, -15) with radius = 73. Color: dark blue. Area = 16741.5
+146: It is Rectangle: (x1, y1) = (69, -85) (x2, y2)= (90, -92). Color: orange. Area = 147
+147: It is Triangle: (x1, x2) = (-90, 38) (x2, y2) = (-67, 70) (x3, y3) = (66, 47). Color: orange. Area = 2392.5
+148: It is circle: (x1, x2) = (41, -16) with radius = 23. Color: violet. Area = 1661.9
+149: It is Triangle: (x1, x2) = (-48, -4) (x2, y2) = (-58, 69) (x3, y3) = (26, -7). Color: red. Area = 2686
+150: It is Triangle: (x1, x2) = (42, 76) (x2, y2) = (28, -29) (x3, y3) = (-5, 78). Color: orange. Area = 2481.5
+151: It is Triangle: (x1, x2) = (-50, 87) (x2, y2) = (48, 6) (x3, y3) = (-51, 97). Color: blue. Area = 449.5
+152: It is circle: (x1, x2) = (89, 57) with radius = 30. Color: none. Area = 2827.43
+153: It is Rectangle: (x1, y1) = (-5, -30) (x2, y2)= (19, -77). Color: dark blue. Area = 1128
+154: It is Triangle: (x1, x2) = (-78, -33) (x2, y2) = (-51, -62) (x3, y3) = (-96, 87). Color: yellow. Area = 1359
+155: It is circle: (x1, x2) = (-57, -69) with radius = 51. Color: orange. Area = 8171.28
+156: It is Triangle: (x1, x2) = (-97, 52) (x2, y2) = (-83, -48) (x3, y3) = (-48, -20). Color: dark blue. Area = 1946
+157: It is circle: (x1, x2) = (76, 58) with radius = 22. Color: dark blue. Area = 1520.53
+158: It is Rectangle: (x1, y1) = (-28, 86) (x2, y2)= (66, 31). Color: green. Area = 5170
+159: It is circle: (x1, x2) = (1, -57) with radius = 81. Color: orange. Area = 20612
+160: It is Rectangle: (x1, y1) = (-1, 84) (x2, y2)= (12, 33). Color: green. Area = 663
+161: It is circle: (x1, x2) = (2, -55) with radius = 66. Color: blue. Area = 13684.8
+162: It is Rectangle: (x1, y1) = (14, 37) (x2, y2)= (92, 7). Color: green. Area = 2340
+163: It is Rectangle: (x1, y1) = (-31, -14) (x2, y2)= (29, -70). Color: orange. Area = 3360
+164: It is circle: (x1, x2) = (51, -90) with radius = 79. Color: red. Area = 19606.7
+165: It is Rectangle: (x1, y1) = (19, 15) (x2, y2)= (24, -67). Color: red. Area = 410
+166: It is circle: (x1, x2) = (-34, -97) with radius = 91. Color: violet. Area = 26015.5
+167: It is Triangle: (x1, x2) = (-10, -81) (x2, y2) = (51, -71) (x3, y3) = (18, -45). Color: yellow. Area = 958
+168: It is Triangle: (x1, x2) = (-35, 93) (x2, y2) = (20, 49) (x3, y3) = (90, 4). Color: blue. Area = 302.5
+169: It is circle: (x1, x2) = (62, 4) with radius = 7. Color: green. Area = 153.938
+170: It is Triangle: (x1, x2) = (-39, 74) (x2, y2) = (-28, -90) (x3, y3) = (4, -44). Color: violet. Area = 2877
+171: It is circle: (x1, x2) = (22, 50) with radius = 94. Color: blue. Area = 27759.1
+172: It is circle: (x1, x2) = (-31, 62) with radius = 76. Color: violet. Area = 18145.8
+173: It is Rectangle: (x1, y1) = (-90, -23) (x2, y2)= (41, -94). Color: dark blue. Area = 9301
+174: It is Rectangle: (x1, y1) = (-89, -91) (x2, y2)= (37, -95). Color: orange. Area = 504
+175: It is circle: (x1, x2) = (-53, 54) with radius = 49. Color: orange. Area = 7542.96
+176: It is Triangle: (x1, x2) = (-39, 2) (x2, y2) = (-40, -74) (x3, y3) = (-51, 1). Color: yellow. Area = 455.5
+177: It is Triangle: (x1, x2) = (-30, -79) (x2, y2) = (-67, 53) (x3, y3) = (36, 90). Color: violet. Area = 7482.5
+178: It is circle: (x1, x2) = (21, 93) with radius = 99. Color: none. Area = 30790.7
+179: It is circle: (x1, x2) = (-19, -62) with radius = 6. Color: none. Area = 113.097
+180: It is circle: (x1, x2) = (-64, -93) with radius = 51. Color: green. Area = 8171.28
+181: It is Triangle: (x1, x2) = (61, -67) (x2, y2) = (-25, -17) (x3, y3) = (-88, 42). Color: orange. Area = 962
+182: It is Triangle: (x1, x2) = (69, 70) (x2, y2) = (-86, -79) (x3, y3) = (13, -39). Color: yellow. Area = 4275.5
+183: It is circle: (x1, x2) = (97, 48) with radius = 19. Color: yellow. Area = 1134.11
+184: It is Rectangle: (x1, y1) = (19, 48) (x2, y2)= (31, -95). Color: yellow. Area = 1716
+185: It is circle: (x1, x2) = (60, 17) with radius = 58. Color: dark blue. Area = 10568.3
+186: It is circle: (x1, x2) = (55, -47) with radius = 42. Color: red. Area = 5541.77
+187: It is circle: (x1, x2) = (39, -58) with radius = 21. Color: dark blue. Area = 1385.44
+188: It is Triangle: (x1, x2) = (65, -5) (x2, y2) = (-99, 100) (x3, y3) = (74, -95). Color: violet. Area = 6907.5
+189: It is Triangle: (x1, x2) = (-56, -24) (x2, y2) = (-4, 77) (x3, y3) = (24, 36). Color: red. Area = 2480
+190: It is Triangle: (x1, x2) = (-60, -17) (x2, y2) = (-82, 38) (x3, y3) = (44, 32). Color: red. Area = 3399
+191: It is Rectangle: (x1, y1) = (59, 75) (x2, y2)= (77, 46). Color: violet. Area = 522
+192: It is Triangle: (x1, x2) = (25, 50) (x2, y2) = (-68, 0) (x3, y3) = (27, 29). Color: violet. Area = 1026.5
+193: It is Rectangle: (x1, y1) = (95, 56) (x2, y2)= (96, -21). Color: red. Area = 77
+194: It is circle: (x1, x2) = (-52, 19) with radius = 18. Color: violet. Area = 1017.88
+195: It is Rectangle: (x1, y1) = (96, 93) (x2, y2)= (97, -73). Color: yellow. Area = 166
+196: It is Rectangle: (x1, y1) = (-1, 3) (x2, y2)= (91, -13). Color: violet. Area = 1472
+197: It is circle: (x1, x2) = (38, -59) with radius = 99. Color: green. Area = 30790.7
+198: It is circle: (x1, x2) = (32, -18) with radius = 24. Color: green. Area = 1809.56
+199: It is Rectangle: (x1, y1) = (9, 72) (x2, y2)= (11, -98). Color: none. Area = 340
+200: It is circle: (x1, x2) = (39, -67) with radius = 59. Color: none. Area = 10935.9
+201: It is Rectangle: (x1, y1) = (-74, 62) (x2, y2)= (-54, 35). Color: green. Area = 540
+202: It is circle: (x1, x2) = (-49, 62) with radius = 3. Color: violet. Area = 28.2743
+203: It is Rectangle: (x1, y1) = (-4, 50) (x2, y2)= (91, 12). Color: blue. Area = 3610
+204: It is Rectangle: (x1, y1) = (-81, -4) (x2, y2)= (93, -94). Color: yellow. Area = 15660
+205: It is Triangle: (x1, x2) = (-86, 44) (x2, y2) = (-7, -6) (x3, y3) = (8, -64). Color: blue. Area = 1916
+206: It is Rectangle: (x1, y1) = (-51, 93) (x2, y2)= (-39, 71). Color: violet. Area = 264
+207: It is Triangle: (x1, x2) = (28, -28) (x2, y2) = (-24, 86) (x3, y3) = (-88, -15). Color: green. Area = 6274
+208: It is circle: (x1, x2) = (-77, 23) with radius = 92. Color: blue. Area = 26590.4
+209: It is circle: (x1, x2) = (29, -42) with radius = 80. Color: yellow. Area = 20106.2
+210: It is Triangle: (x1, x2) = (-40, -91) (x2, y2) = (-89, 36) (x3, y3) = (32, -30). Color: violet. Area = 6066.5
+211: It is Rectangle: (x1, y1) = (96, -2) (x2, y2)= (98, -91). Color: dark blue. Area = 178
+212: It is circle: (x1, x2) = (55, 28) with radius = 33. Color: violet. Area = 3421.19
+213: It is Rectangle: (x1, y1) = (11, 72) (x2, y2)= (52, -71). Color: none. Area = 5863
+214: It is Triangle: (x1, x2) = (41, 99) (x2, y2) = (18, -22) (x3, y3) = (42, -90). Color: none. Area = 2234
+215: It is circle: (x1, x2) = (-93, 79) with radius = 87. Color: none. Area = 23778.7
+216: It is Triangle: (x1, x2) = (-84, -75) (x2, y2) = (11, 3) (x3, y3) = (-31, -97). Color: green. Area = 3112
+217: It is Triangle: (x1, x2) = (79, 41) (x2, y2) = (90, -50) (x3, y3) = (-51, 35). Color: orange. Area = 5948
+218: It is Triangle: (x1, x2) = (63, -99) (x2, y2) = (31, 48) (x3, y3) = (54, 70). Color: green. Area = 2042.5
+219: It is Triangle: (x1, x2) = (92, -18) (x2, y2) = (53, -93) (x3, y3) = (44, -59). Color: violet. Area = 1000.5
+220: It is Triangle: (x1, x2) = (29, -26) (x2, y2) = (30, 84) (x3, y3) = (-1, -28). Color: green. Area = 1649
+221: It is circle: (x1, x2) = (7, 13) with radius = 56. Color: green. Area = 9852.03
+222: It is circle: (x1, x2) = (61, 94) with radius = 15. Color: dark blue. Area = 706.858
+223: It is Rectangle: (x1, y1) = (-3, -95) (x2, y2)= (72, -96). Color: red. Area = 75
+224: It is circle: (x1, x2) = (-66, -45) with radius = 13. Color: yellow. Area = 530.929
+225: It is Rectangle: (x1, y1) = (-87, -76) (x2, y2)= (85, -91). Color: dark blue. Area = 2580
+226: It is Rectangle: (x1, y1) = (18, -32) (x2, y2)= (52, -33). Color: violet. Area = 34
+227: It is circle: (x1, x2) = (-62, 7) with radius = 55. Color: orange. Area = 9503.32
+228: It is circle: (x1, x2) = (-88, -43) with radius = 74. Color: none. Area = 17203.4
+229: It is Rectangle: (x1, y1) = (6, -8) (x2, y2)= (97, -25). Color: yellow. Area = 1547
+230: It is Triangle: (x1, x2) = (49, 15) (x2, y2) = (-8, -74) (x3, y3) = (20, 60). Color: violet. Area = 2573
+231: It is circle: (x1, x2) = (-54, 84) with radius = 63. Color: red. Area = 12469
+232: It is Triangle: (x1, x2) = (72, 97) (x2, y2) = (30, 2) (x3, y3) = (-5, -9). Color: orange. Area = 1431.5
+233: It is circle: (x1, x2) = (-40, -76) with radius = 33. Color: none. Area = 3421.19
+234: It is circle: (x1, x2) = (74, -57) with radius = 1. Color: dark blue. Area = 3.14159
+235: It is Rectangle: (x1, y1) = (14, -75) (x2, y2)= (18, -100). Color: red. Area = 100
+236: It is Triangle: (x1, x2) = (-11, -60) (x2, y2) = (-22, -38) (x3, y3) = (40, 98). Color: blue. Area = 1430
+237: It is Rectangle: (x1, y1) = (72, 74) (x2, y2)= (86, 22). Color: violet. Area = 728
+238: It is circle: (x1, x2) = (-72, -75) with radius = 87. Color: red. Area = 23778.7
+239: It is circle: (x1, x2) = (-43, -83) with radius = 59. Color: none. Area = 10935.9
+240: It is circle: (x1, x2) = (-93, -44) with radius = 67. Color: dark blue. Area = 14102.6
+241: It is Rectangle: (x1, y1) = (-58, 6) (x2, y2)= (-22, -73). Color: none. Area = 2844
+242: It is Rectangle: (x1, y1) = (54, -84) (x2, y2)= (66, -98). Color: orange. Area = 168
+243: It is Rectangle: (x1, y1) = (12, 91) (x2, y2)= (67, -45). Color: violet. Area = 7480
+244: It is circle: (x1, x2) = (-13, -1) with radius = 39. Color: red. Area = 4778.36
+245: It is Rectangle: (x1, y1) = (-57, 77) (x2, y2)= (92, 21). Color: blue. Area = 8344
+246: It is Triangle: (x1, x2) = (58, -99) (x2, y2) = (-92, 3) (x3, y3) = (-9, 9). Color: orange. Area = 4683
+247: It is Triangle: (x1, x2) = (72, 11) (x2, y2) = (-6, -4) (x3, y3) = (36, 38). Color: blue. Area = 1323
+248: It is Triangle: (x1, x2) = (-18, -11) (x2, y2) = (-49, 10) (x3, y3) = (-54, 11). Color: red. Area = 37
+249: It is circle: (x1, x2) = (45, 71) with radius = 56. Color: red. Area = 9852.03
+250: It is Triangle: (x1, x2) = (-37, 6) (x2, y2) = (-79, 46) (x3, y3) = (-72, 76). Color: yellow. Area = 770
+251: It is Triangle: (x1, x2) = (-55, -8) (x2, y2) = (-53, -36) (x3, y3) = (29, -28). Color: blue. Area = 1156
+252: It is Rectangle: (x1, y1) = (-88, 67) (x2, y2)= (14, -13). Color: green. Area = 8160
+253: It is circle: (x1, x2) = (-67, 45) with radius = 30. Color: red. Area = 2827.43
+254: It is circle: (x1, x2) = (71, 83) with radius = 95. Color: none. Area = 28352.9
+255: It is circle: (x1, x2) = (19, -5) with radius = 83. Color: dark blue. Area = 21642.4
+256: It is circle: (x1, x2) = (70, 38) with radius = 20. Color: yellow. Area = 1256.64
+257: It is Triangle: (x1, x2) = (87, -6) (x2, y2) = (40, 58) (x3, y3) = (47, -4). Color: dark blue. Area = 1233
+258: It is circle: (x1, x2) = (-47, 4) with radius = 36. Color: red. Area = 4071.5
+259: It is Rectangle: (x1, y1) = (15, 51) (x2, y2)= (27, -65). Color: yellow. Area = 1392
+260: It is Triangle: (x1, x2) = (73, -64) (x2, y2) = (-8, -57) (x3, y3) = (40, 41). Color: none. Area = 4137
+261: It is Rectangle: (x1, y1) = (-30, -37) (x2, y2)= (3, -85). Color: yellow. Area = 1584
+262: It is Rectangle: (x1, y1) = (15, 22) (x2, y2)= (41, -77). Color: none. Area = 2574
+263: It is Triangle: (x1, x2) = (61, 100) (x2, y2) = (-90, 5) (x3, y3) = (-98, -71). Color: dark blue. Area = 5358
+264: It is Rectangle: (x1, y1) = (68, 41) (x2, y2)= (73, -49). Color: orange. Area = 450
+265: It is Triangle: (x1, x2) = (27, 16) (x2, y2) = (-49, 96) (x3, y3) = (-67, 53). Color: dark blue. Area = 2354
+266: It is circle: (x1, x2) = (-13, 55) with radius = 18. Color: green. Area = 1017.88
+267: It is Triangle: (x1, x2) = (65, 53) (x2, y2) = (-86, -26) (x3, y3) = (20, -72). Color: red. Area = 7660
+268: It is Triangle: (x1, x2) = (35, -80) (x2, y2) = (-4, 23) (x3, y3) = (-56, 33). Color: red. Area = 2483
+269: It is circle: (x1, x2) = (79, 47) with radius = 20. Color: green. Area = 1256.64
+270: It is Triangle: (x1, x2) = (-50, 44) (x2, y2) = (-41, -36) (x3, y3) = (92, 87). Color: orange. Area = 5873.5
+271: It is Rectangle: (x1, y1) = (7, -13) (x2, y2)= (88, -34). Color: yellow. Area = 1701
+272: It is circle: (x1, x2) = (31, -75) with radius = 4. Color: red. Area = 50.2655
+273: It is Triangle: (x1, x2) = (-93, 79) (x2, y2) = (-31, 83) (x3, y3) = (-14, 4). Color: red. Area = 2483
+274: It is circle: (x1, x2) = (-53, -58) with radius = 77. Color: violet. Area = 18626.5
+275: It is Triangle: (x1, x2) = (-70, -42) (x2, y2) = (-4, -4) (x3, y3) = (-63, 44). Color: blue. Area = 2705
+276: It is circle: (x1, x2) = (33, -73) with radius = 30. Color: yellow. Area = 2827.43
+277: It is Triangle: (x1, x2) = (-46, -10) (x2, y2) = (24, -34) (x3, y3) = (-42, -1). Color: dark blue. Area = 363
+278: It is Triangle: (x1, x2) = (48, -51) (x2, y2) = (23, -35) (x3, y3) = (91, -43). Color: none. Area = 444
+279: It is Rectangle: (x1, y1) = (8, 4) (x2, y2)= (22, -85). Color: yellow. Area = 1246
+280: It is Rectangle: (x1, y1) = (-77, 68) (x2, y2)= (15, 56). Color: none. Area = 1104
+281: It is Triangle: (x1, x2) = (42, -94) (x2, y2) = (27, 87) (x3, y3) = (95, 62). Color: none. Area = 5966.5
+282: It is Triangle: (x1, x2) = (95, 40) (x2, y2) = (-77, -74) (x3, y3) = (-6, 72). Color: dark blue. Area = 8509
+283: It is circle: (x1, x2) = (-16, 12) with radius = 6. Color: red. Area = 113.097
+284: It is circle: (x1, x2) = (23, 54) with radius = 17. Color: green. Area = 907.92
+285: It is Triangle: (x1, x2) = (89, -84) (x2, y2) = (69, 63) (x3, y3) = (-37, -65). Color: red. Area = 9071
+286: It is circle: (x1, x2) = (41, 42) with radius = 21. Color: none. Area = 1385.44
+287: It is Rectangle: (x1, y1) = (-69, 18) (x2, y2)= (-18, -1). Color: violet. Area = 969
+288: It is Rectangle: (x1, y1) = (96, 73) (x2, y2)= (98, 26). Color: blue. Area = 94
+289: It is Triangle: (x1, x2) = (-87, -53) (x2, y2) = (11, 68) (x3, y3) = (-45, 98). Color: none. Area = 4858
+290: It is Triangle: (x1, x2) = (90, -96) (x2, y2) = (41, 12) (x3, y3) = (44, -58). Color: green. Area = 1553
+291: It is Rectangle: (x1, y1) = (75, 26) (x2, y2)= (95, -100). Color: orange. Area = 2520
+292: It is Rectangle: (x1, y1) = (80, 27) (x2, y2)= (89, -80). Color: blue. Area = 963
+293: It is Rectangle: (x1, y1) = (27, -39) (x2, y2)= (60, -97). Color: dark blue. Area = 1914
+294: It is Rectangle: (x1, y1) = (-79, -81) (x2, y2)= (-9, -90). Color: green. Area = 630
+295: It is Triangle: (x1, x2) = (93, 56) (x2, y2) = (84, -80) (x3, y3) = (-92, 83). Color: yellow. Area = 12701.5
+296: It is Rectangle: (x1, y1) = (95, -51) (x2, y2)= (96, -69). Color: blue. Area = 18
+297: It is Triangle: (x1, x2) = (-52, -8) (x2, y2) = (-52, -19) (x3, y3) = (1, 98). Color: none. Area = 291.5
+298: It is circle: (x1, x2) = (97, 22) with radius = 93. Color: dark blue. Area = 27171.6
+299: It is circle: (x1, x2) = (-69, -58) with radius = 9. Color: violet. Area = 254.469
+300: It is Rectangle: (x1, y1) = (24, 0) (x2, y2)= (81, -82). Color: dark blue. Area = 4674
+301: It is Triangle: (x1, x2) = (26, -50) (x2, y2) = (-43, 33) (x3, y3) = (7, 79). Color: red. Area = 3662
+302: It is circle: (x1, x2) = (76, -85) with radius = 83. Color: dark blue. Area = 21642.4
+303: It is Rectangle: (x1, y1) = (1, -55) (x2, y2)= (67, -80). Color: none. Area = 1650
+304: It is circle: (x1, x2) = (31, -89) with radius = 56. Color: orange. Area = 9852.03
+305: It is circle: (x1, x2) = (47, 84) with radius = 12. Color: yellow. Area = 452.389
+306: It is Rectangle: (x1, y1) = (-40, -87) (x2, y2)= (-39, -101). Color: orange. Area = 14
+307: It is circle: (x1, x2) = (-72, 54) with radius = 24. Color: red. Area = 1809.56
+308: It is circle: (x1, x2) = (-29, 70) with radius = 76. Color: green. Area = 18145.8
+309: It is circle: (x1, x2) = (13, 20) with radius = 4. Color: red. Area = 50.2655
+310: It is circle: (x1, x2) = (-62, -6) with radius = 32. Color: orange. Area = 3216.99
+311: It is circle: (x1, x2) = (88, 67) with radius = 54. Color: red. Area = 9160.88
+312: It is Rectangle: (x1, y1) = (7, 43) (x2, y2)= (40, 21). Color: none. Area = 726
+313: It is Triangle: (x1, x2) = (-68, 1) (x2, y2) = (-12, 58) (x3, y3) = (-9, -11). Color: violet. Area = 2017.5
+314: It is circle: (x1, x2) = (64, 19) with radius = 80. Color: red. Area = 20106.2
+315: It is Triangle: (x1, x2) = (62, 38) (x2, y2) = (-75, 52) (x3, y3) = (31, -47). Color: violet. Area = 6039.5
+316: It is Triangle: (x1, x2) = (-42, 51) (x2, y2) = (6, -90) (x3, y3) = (22, -30). Color: green. Area = 2568
+317: It is Rectangle: (x1, y1) = (-41, 38) (x2, y2)= (-32, 30). Color: green. Area = 72
+318: It is Rectangle: (x1, y1) = (-62, -37) (x2, y2)= (1, -94). Color: none. Area = 3591
+319: It is Rectangle: (x1, y1) = (35, -36) (x2, y2)= (58, -93). Color: green. Area = 1311
+320: It is Rectangle: (x1, y1) = (8, -68) (x2, y2)= (13, -71). Color: blue. Area = 15
+321: It is circle: (x1, x2) = (15, -95) with radius = 99. Color: blue. Area = 30790.7
+322: It is Rectangle: (x1, y1) = (-54, 33) (x2, y2)= (-2, -73). Color: dark blue. Area = 5512
+323: It is circle: (x1, x2) = (99, -14) with radius = 94. Color: red. Area = 27759.1
+324: It is Rectangle: (x1, y1) = (-51, -72) (x2, y2)= (32, -89). Color: blue. Area = 1411
+325: It is circle: (x1, x2) = (-85, -39) with radius = 95. Color: blue. Area = 28352.9
+326: It is circle: (x1, x2) = (84, 92) with radius = 63. Color: violet. Area = 12469
+327: It is circle: (x1, x2) = (-84, 35) with radius = 73. Color: yellow. Area = 16741.5
+328: It is Rectangle: (x1, y1) = (1, -16) (x2, y2)= (8, -27). Color: green. Area = 77
+329: It is circle: (x1, x2) = (-96, -20) with radius = 20. Color: blue. Area = 1256.64
+330: It is circle: (x1, x2) = (-39, -50) with radius = 66. Color: green. Area = 13684.8
+331: It is Rectangle: (x1, y1) = (6, 70) (x2, y2)= (71, 63). Color: violet. Area = 455
+332: It is circle: (x1, x2) = (-21, -32) with radius = 50. Color: orange. Area = 7853.98
+333: It is Rectangle: (x1, y1) = (-56, 44) (x2, y2)= (-54, 3). Color: none. Area = 82
+334: It is Triangle: (x1, x2) = (-26, 50) (x2, y2) = (-94, 87) (x3, y3) = (24, 72). Color: violet. Area = 1673
+335: It is circle: (x1, x2) = (5, -20) with radius = 45. Color: green. Area = 6361.73
+336: It is Rectangle: (x1, y1) = (57, -71) (x2, y2)= (79, -85). Color: blue. Area = 308
+337: It is Rectangle: (x1, y1) = (39, 95) (x2, y2)= (58, 85). Color: none. Area = 190
+338: It is Triangle: (x1, x2) = (53, 73) (x2, y2) = (-63, 69) (x3, y3) = (26, -6). Color: none. Area = 4528
+339: It is circle: (x1, x2) = (56, 46) with radius = 74. Color: dark blue. Area = 17203.4
+340: It is Triangle: (x1, x2) = (-29, -99) (x2, y2) = (65, 78) (x3, y3) = (-27, -31). Color: dark blue. Area = 3019
+341: It is Rectangle: (x1, y1) = (-89, 50) (x2, y2)= (-66, -27). Color: violet. Area = 1771
+342: It is Triangle: (x1, x2) = (22, -78) (x2, y2) = (85, 74) (x3, y3) = (85, 18). Color: violet. Area = 1764
+343: It is Rectangle: (x1, y1) = (-59, 26) (x2, y2)= (-4, -59). Color: yellow. Area = 4675
+344: It is circle: (x1, x2) = (23, -67) with radius = 50. Color: none. Area = 7853.98
+345: It is Rectangle: (x1, y1) = (93, 34) (x2, y2)= (96, -58). Color: orange. Area = 276
+346: It is circle: (x1, x2) = (82, 60) with radius = 27. Color: red. Area = 2290.22
+347: It is Triangle: (x1, x2) = (-86, 3) (x2, y2) = (-51, -14) (x3, y3) = (98, 24). Color: violet. Area = 1931.5
+348: It is Rectangle: (x1, y1) = (11, 62) (x2, y2)= (39, -54). Color: yellow. Area = 3248
+349: It is circle: (x1, x2) = (-58, -35) with radius = 39. Color: blue. Area = 4778.36
+350: It is Triangle: (x1, x2) = (62, -52) (x2, y2) = (42, 31) (x3, y3) = (9, 84). Color: red. Area = 839.5
+351: It is circle: (x1, x2) = (71, -75) with radius = 70. Color: orange. Area = 15393.8
+352: It is circle: (x1, x2) = (-29, 7) with radius = 81. Color: red. Area = 20612
+353: It is Triangle: (x1, x2) = (-79, 21) (x2, y2) = (78, 44) (x3, y3) = (-61, 33). Color: red. Area = 735
+354: It is Rectangle: (x1, y1) = (84, 17) (x2, y2)= (92, -40). Color: red. Area = 456
+355: It is Rectangle: (x1, y1) = (39, 39) (x2, y2)= (57, -59). Color: yellow. Area = 1764
+356: It is Rectangle: (x1, y1) = (-27, 48) (x2, y2)= (75, -16). Color: red. Area = 6528
+357: It is Rectangle: (x1, y1) = (-55, -23) (x2, y2)= (54, -82). Color: violet. Area = 6431
+358: It is circle: (x1, x2) = (38, -83) with radius = 82. Color: none. Area = 21124.1
+359: It is Triangle: (x1, x2) = (70, -14) (x2, y2) = (-31, 80) (x3, y3) = (64, 75). Color: violet. Area = 4212.5
+360: It is Rectangle: (x1, y1) = (64, 76) (x2, y2)= (76, -45). Color: blue. Area = 1452
+361: It is Triangle: (x1, x2) = (-57, 59) (x2, y2) = (-42, 56) (x3, y3) = (-69, -19). Color: orange. Area = 603
+362: It is Triangle: (x1, x2) = (98, -30) (x2, y2) = (80, 25) (x3, y3) = (66, 41). Color: none. Area = 241
+363: It is circle: (x1, x2) = (-20, -73) with radius = 92. Color: none. Area = 26590.4
+364: It is Triangle: (x1, x2) = (-43, 47) (x2, y2) = (-5, 23) (x3, y3) = (-26, -93). Color: none. Area = 2456
+365: It is circle: (x1, x2) = (33, 76) with radius = 62. Color: dark blue. Area = 12076.3
+366: It is Rectangle: (x1, y1) = (-41, 35) (x2, y2)= (37, -64). Color: blue. Area = 7722
+367: It is circle: (x1, x2) = (78, 92) with radius = 100. Color: violet. Area = 31415.9
+368: It is Rectangle: (x1, y1) = (-36, 3) (x2, y2)= (32, -11). Color: dark blue. Area = 952
+369: It is Rectangle: (x1, y1) = (-56, -31) (x2, y2)= (-10, -57). Color: blue. Area = 1196
+370: It is Triangle: (x1, x2) = (64, 21) (x2, y2) = (-20, -34) (x3, y3) = (-43, 24). Color: yellow. Area = 3068.5
+371: It is Rectangle: (x1, y1) = (-16, 36) (x2, y2)= (26, 16). Color: orange. Area = 840
+372: It is circle: (x1, x2) = (-41, -50) with radius = 10. Color: dark blue. Area = 314.159
+373: It is circle: (x1, x2) = (64, -46) with radius = 12. Color: none. Area = 452.389
+374: It is Triangle: (x1, x2) = (31, -11) (x2, y2) = (-58, 52) (x3, y3) = (-78, 83). Color: yellow. Area = 749.5
+375: It is Triangle: (x1, x2) = (-89, 49) (x2, y2) = (91, -98) (x3, y3) = (73, 18). Color: orange. Area = 9117
+376: It is circle: (x1, x2) = (84, 87) with radius = 72. Color: red. Area = 16286
+377: It is Triangle: (x1, x2) = (66, -4) (x2, y2) = (57, 94) (x3, y3) = (96, -65). Color: dark blue. Area = 1195.5
+378: It is Rectangle: (x1, y1) = (86, -13) (x2, y2)= (92, -46). Color: red. Area = 198
+379: It is circle: (x1, x2) = (19, -53) with radius = 87. Color: yellow. Area = 23778.7
+380: It is circle: (x1, x2) = (-8, 67) with radius = 19. Color: blue. Area = 1134.11
+381: It is Triangle: (x1, x2) = (-25, -98) (x2, y2) = (-31, -50) (x3, y3) = (43, 87). Color: orange. Area = 2187
+382: It is Triangle: (x1, x2) = (82, -28) (x2, y2) = (46, 11) (x3, y3) = (63, -36). Color: none. Area = 514.5
+383: It is Triangle: (x1, x2) = (-97, -75) (x2, y2) = (-24, 36) (x3, y3) = (-21, 38). Color: yellow. Area = 93.5
+384: It is Triangle: (x1, x2) = (20, 1) (x2, y2) = (74, -52) (x3, y3) = (-16, 48). Color: yellow. Area = 315
+385: It is Triangle: (x1, x2) = (45, 67) (x2, y2) = (-33, 11) (x3, y3) = (-92, -46). Color: orange. Area = 571
+386: It is Triangle: (x1, x2) = (96, 2) (x2, y2) = (-97, -48) (x3, y3) = (13, 62). Color: blue. Area = 7865
+387: It is Rectangle: (x1, y1) = (98, -61) (x2, y2)= (100, -78). Color: red. Area = 34
+388: It is circle: (x1, x2) = (95, 62) with radius = 63. Color: yellow. Area = 12469
+389: It is circle: (x1, x2) = (9, 85) with radius = 46. Color: dark blue. Area = 6647.61
+390: It is circle: (x1, x2) = (-56, -44) with radius = 21. Color: blue. Area = 1385.44
+391: It is circle: (x1, x2) = (-15, -90) with radius = 84. Color: yellow. Area = 22167.1
+392: It is Rectangle: (x1, y1) = (-17, 78) (x2, y2)= (-11, -63). Color: dark blue. Area = 846
+393: It is Triangle: (x1, x2) = (-95, -25) (x2, y2) = (-48, -18) (x3, y3) = (82, 92). Color: orange. Area = 2130
+394: It is Triangle: (x1, x2) = (-39, 77) (x2, y2) = (-57, 51) (x3, y3) = (75, 27). Color: violet. Area = 1932
+395: It is Triangle: (x1, x2) = (57, 27) (x2, y2) = (-78, 89) (x3, y3) = (-95, 74). Color: none. Area = 1539.5
+396: It is circle: (x1, x2) = (47, -3) with radius = 29. Color: yellow. Area = 2642.08
+397: It is circle: (x1, x2) = (-3, 69) with radius = 45. Color: orange. Area = 6361.73
+398: It is Triangle: (x1, x2) = (79, 98) (x2, y2) = (-85, -10) (x3, y3) = (-58, 62). Color: dark blue. Area = 4446
+399: It is Triangle: (x1, x2) = (31, -56) (x2, y2) = (96, 81) (x3, y3) = (63, 14). Color: dark blue. Area = 83
+400: It is circle: (x1, x2) = (-73, 68) with radius = 74. Color: none. Area = 17203.4
+401: It is circle: (x1, x2) = (-15, 70) with radius = 41. Color: blue. Area = 5281.02
+402: It is Rectangle: (x1, y1) = (-67, -96) (x2, y2)= (23, -101). Color: dark blue. Area = 450
+403: It is circle: (x1, x2) = (93, -47) with radius = 58. Color: red. Area = 10568.3
+404: It is circle: (x1, x2) = (-47, 73) with radius = 18. Color: dark blue. Area = 1017.88
+405: It is Rectangle: (x1, y1) = (52, 15) (x2, y2)= (81, -91). Color: red. Area = 3074
+406: It is Triangle: (x1, x2) = (-27, -47) (x2, y2) = (88, -63) (x3, y3) = (98, -36). Color: blue. Area = 1632.5
+407: It is circle: (x1, x2) = (-54, 95) with radius = 13. Color: green. Area = 530.929
+408: It is Rectangle: (x1, y1) = (-45, -8) (x2, y2)= (57, -80). Color: violet. Area = 7344
+409: It is Triangle: (x1, x2) = (71, -47) (x2, y2) = (87, 3) (x3, y3) = (44, -36). Color: violet. Area = 763
+410: It is circle: (x1, x2) = (92, 87) with radius = 46. Color: orange. Area = 6647.61
+411: It is Rectangle: (x1, y1) = (-100, 42) (x2, y2)= (66, -8). Color: red. Area = 8300
+412: It is circle: (x1, x2) = (-13, 82) with radius = 83. Color: none. Area = 21642.4
+413: It is Rectangle: (x1, y1) = (22, 64) (x2, y2)= (35, 37). Color: none. Area = 351
+414: It is circle: (x1, x2) = (-58, -51) with radius = 98. Color: dark blue. Area = 30171.9
+415: It is circle: (x1, x2) = (15, -96) with radius = 23. Color: blue. Area = 1661.9
+416: It is circle: (x1, x2) = (-42, -31) with radius = 22. Color: orange. Area = 1520.53
+417: It is Triangle: (x1, x2) = (21, 28) (x2, y2) = (92, -37) (x3, y3) = (58, 21). Color: violet. Area = 954
+418: It is Triangle: (x1, x2) = (-69, -20) (x2, y2) = (92, -44) (x3, y3) = (-100, 90). Color: none. Area = 8483
+419: It is Rectangle: (x1, y1) = (14, 66) (x2, y2)= (56, -77). Color: yellow. Area = 6006
+420: It is Rectangle: (x1, y1) = (-80, -86) (x2, y2)= (30, -92). Color: none. Area = 660
+421: It is Triangle: (x1, x2) = (41, 84) (x2, y2) = (24, -75) (x3, y3) = (-60, -40). Color: none. Area = 6975.5
+422: It is circle: (x1, x2) = (-24, -100) with radius = 79. Color: violet. Area = 19606.7
+423: It is circle: (x1, x2) = (95, 17) with radius = 70. Color: blue. Area = 15393.8
+424: It is Rectangle: (x1, y1) = (71, 3) (x2, y2)= (87, -95). Color: dark blue. Area = 1568
+425: It is Triangle: (x1, x2) = (96, 62) (x2, y2) = (-74, -78) (x3, y3) = (-91, -41). Color: blue. Area = 4335
+426: It is circle: (x1, x2) = (-76, -74) with radius = 23. Color: violet. Area = 1661.9
+427: It is Triangle: (x1, x2) = (-66, 66) (x2, y2) = (-3, 49) (x3, y3) = (-52, -97). Color: red. Area = 5015.5
+428: It is Rectangle: (x1, y1) = (-46, -15) (x2, y2)= (84, -49). Color: green. Area = 4420
+429: It is Rectangle: (x1, y1) = (-7, -31) (x2, y2)= (92, -61). Color: violet. Area = 2970
+430: It is Triangle: (x1, x2) = (83, -76) (x2, y2) = (61, 94) (x3, y3) = (13, 87). Color: blue. Area = 4157
+431: It is Rectangle: (x1, y1) = (-8, 65) (x2, y2)= (7, -4). Color: blue. Area = 1035
+432: It is Rectangle: (x1, y1) = (17, 17) (x2, y2)= (48, -15). Color: dark blue. Area = 992
+433: It is Triangle: (x1, x2) = (40, 40) (x2, y2) = (97, 68) (x3, y3) = (7, 99). Color: orange. Area = 2143.5
+434: It is circle: (x1, x2) = (45, -25) with radius = 74. Color: violet. Area = 17203.4
+435: It is Rectangle: (x1, y1) = (23, 81) (x2, y2)= (74, -33). Color: none. Area = 5814
+436: It is circle: (x1, x2) = (-75, 63) with radius = 35. Color: blue. Area = 3848.45
+437: It is Triangle: (x1, x2) = (-87, -52) (x2, y2) = (-37, -21) (x3, y3) = (-69, -31). Color: violet. Area = 246
+438: It is Triangle: (x1, x2) = (-50, 77) (x2, y2) = (-96, 73) (x3, y3) = (93, 41). Color: green. Area = 1114
+439: It is Triangle: (x1, x2) = (-90, -96) (x2, y2) = (-47, -6) (x3, y3) = (-12, -24). Color: yellow. Area = 1962
+440: It is Rectangle: (x1, y1) = (45, -2) (x2, y2)= (66, -32). Color: blue. Area = 630
+441: It is Rectangle: (x1, y1) = (50, -26) (x2, y2)= (92, -35). Color: dark blue. Area = 378
+442: It is Rectangle: (x1, y1) = (-98, 30) (x2, y2)= (-62, -75). Color: yellow. Area = 3780
+443: It is circle: (x1, x2) = (42, -87) with radius = 27. Color: yellow. Area = 2290.22
+444: It is Triangle: (x1, x2) = (-2, 80) (x2, y2) = (30, 9) (x3, y3) = (-99, 29). Color: dark blue. Area = 4259.5
+445: It is Triangle: (x1, x2) = (5, 8) (x2, y2) = (31, 28) (x3, y3) = (25, 79). Color: blue. Area = 723
+446: It is circle: (x1, x2) = (-32, -80) with radius = 23. Color: red. Area = 1661.9
+447: It is circle: (x1, x2) = (98, -49) with radius = 73. Color: dark blue. Area = 16741.5
+448: It is Triangle: (x1, x2) = (4, -30) (x2, y2) = (-94, -91) (x3, y3) = (-9, 73). Color: none. Area = 5443.5
+449: It is Rectangle: (x1, y1) = (-65, 74) (x2, y2)= (-16, -22). Color: yellow. Area = 4704
+450: It is Triangle: (x1, x2) = (43, 41) (x2, y2) = (-14, 95) (x3, y3) = (17, -82). Color: blue. Area = 4207.5
+451: It is Rectangle: (x1, y1) = (-46, 69) (x2, y2)= (9, -67). Color: red. Area = 7480
+452: It is circle: (x1, x2) = (-3, -40) with radius = 50. Color: red. Area = 7853.98
+453: It is Rectangle: (x1, y1) = (-28, -81) (x2, y2)= (52, -85). Color: blue. Area = 320
+454: It is Triangle: (x1, x2) = (35, 38) (x2, y2) = (87, -85) (x3, y3) = (-67, 28). Color: red. Area = 6533
+455: It is circle: (x1, x2) = (31, -17) with radius = 1. Color: blue. Area = 3.14159
+456: It is circle: (x1, x2) = (-72, 43) with radius = 62. Color: none. Area = 12076.3
+457: It is Rectangle: (x1, y1) = (-55, -82) (x2, y2)= (2, -98). Color: blue. Area = 912
+458: It is Triangle: (x1, x2) = (55, 28) (x2, y2) = (56, 16) (x3, y3) = (51, -80). Color: red. Area = 78
+459: It is Rectangle: (x1, y1) = (3, 2) (x2, y2)= (74, -35). Color: orange. Area = 2627
+460: It is circle: (x1, x2) = (-19, 73) with radius = 89. Color: dark blue. Area = 24884.6
+461: It is circle: (x1, x2) = (-6, -62) with radius = 12. Color: dark blue. Area = 452.389
+462: It is Rectangle: (x1, y1) = (-15, -77) (x2, y2)= (63, -92). Color: red. Area = 1170
+463: It is Rectangle: (x1, y1) = (0, -10) (x2, y2)= (77, -74). Color: orange. Area = 4928
+464: It is circle: (x1, x2) = (57, 88) with radius = 93. Color: none. Area = 27171.6
+465: It is Triangle: (x1, x2) = (83, -100) (x2, y2) = (74, -74) (x3, y3) = (90, -1). Color: dark blue. Area = 536.5
+466: It is circle: (x1, x2) = (57, -19) with radius = 4. Color: none. Area = 50.2655
+467: It is circle: (x1, x2) = (92, 38) with radius = 16. Color: orange. Area = 804.248
+468: It is Triangle: (x1, x2) = (-38, 8) (x2, y2) = (-33, 81) (x3, y3) = (-82, -40). Color: blue. Area = 1486
+469: It is circle: (x1, x2) = (11, -43) with radius = 54. Color: violet. Area = 9160.88
+470: It is Rectangle: (x1, y1) = (-35, 27) (x2, y2)= (29, -25). Color: blue. Area = 3328
+471: It is Rectangle: (x1, y1) = (26, -9) (x2, y2)= (32, -19). Color: orange. Area = 60
+472: It is Triangle: (x1, x2) = (2, -23) (x2, y2) = (65, 53) (x3, y3) = (-77, -85). Color: green. Area = 1049
+473: It is Rectangle: (x1, y1) = (-8, -95) (x2, y2)= (69, -97). Color: none. Area = 154
+474: It is circle: (x1, x2) = (57, -59) with radius = 2. Color: blue. Area = 12.5664
+475: It is circle: (x1, x2) = (-26, -60) with radius = 89. Color: red. Area = 24884.6
+476: It is Rectangle: (x1, y1) = (85, -85) (x2, y2)= (91, -88). Color: none. Area = 18
+477: It is circle: (x1, x2) = (-69, 46) with radius = 13. Color: blue. Area = 530.929
+478: It is circle: (x1, x2) = (96, 16) with radius = 97. Color: orange. Area = 29559.2
+479: It is circle: (x1, x2) = (-28, 83) with radius = 21. Color: green. Area = 1385.44
+480: It is Rectangle: (x1, y1) = (-50, -62) (x2, y2)= (82, -79). Color: blue. Area = 2244
+481: It is Triangle: (x1, x2) = (29, 29) (x2, y2) = (-1, 21) (x3, y3) = (-86, 40). Color: yellow. Area = 625
+482: It is circle: (x1, x2) = (78, -2) with radius = 98. Color: none. Area = 30171.9
+483: It is circle: (x1, x2) = (81, -2) with radius = 34. Color: yellow. Area = 3631.68
+484: It is circle: (x1, x2) = (7, -89) with radius = 77. Color: orange. Area = 18626.5
+485: It is circle: (x1, x2) = (39, -87) with radius = 48. Color: orange. Area = 7238.23
+486: It is circle: (x1, x2) = (75, 14) with radius = 12. Color: none. Area = 452.389
+487: It is circle: (x1, x2) = (34, 31) with radius = 65. Color: orange. Area = 13273.2
+488: It is Rectangle: (x1, y1) = (11, 48) (x2, y2)= (92, -62). Color: violet. Area = 8910
+489: It is Rectangle: (x1, y1) = (79, -82) (x2, y2)= (90, -94). Color: orange. Area = 132
+490: It is circle: (x1, x2) = (-25, 68) with radius = 36. Color: yellow. Area = 4071.5
+491: It is circle: (x1, x2) = (-45, -53) with radius = 36. Color: red. Area = 4071.5
+492: It is Rectangle: (x1, y1) = (-98, 100) (x2, y2)= (66, -60). Color: red. Area = 26240
+493: It is Triangle: (x1, x2) = (2, 92) (x2, y2) = (-84, -7) (x3, y3) = (45, -50). Color: violet. Area = 8234.5
+494: It is circle: (x1, x2) = (-78, -77) with radius = 3. Color: dark blue. Area = 28.2743
+495: It is Rectangle: (x1, y1) = (-87, -66) (x2, y2)= (27, -94). Color: violet. Area = 3192
+496: It is Triangle: (x1, x2) = (85, -1) (x2, y2) = (91, 24) (x3, y3) = (44, -89). Color: blue. Area = 248.5
+497: It is Triangle: (x1, x2) = (13, 47) (x2, y2) = (-67, -41) (x3, y3) = (-29, 47). Color: blue. Area = 1848
+498: It is Triangle: (x1, x2) = (16, -8) (x2, y2) = (43, 77) (x3, y3) = (68, 39). Color: none. Area = 1575.5
+499: It is circle: (x1, x2) = (-46, -42) with radius = 35. Color: blue. Area = 3848.45
+500: It is Triangle: (x1, x2) = (-75, -45) (x2, y2) = (40, -63) (x3, y3) = (70, 55). Color: orange. Area = 7055
+501: It is Triangle: (x1, x2) = (30, -75) (x2, y2) = (14, 43) (x3, y3) = (-17, 90). Color: none. Area = 1453
+502: It is Rectangle: (x1, y1) = (-73, 51) (x2, y2)= (99, -59). Color: none. Area = 18920
+503: It is Rectangle: (x1, y1) = (60, -23) (x2, y2)= (76, -48). Color: green. Area = 400
+504: It is Triangle: (x1, x2) = (67, -95) (x2, y2) = (85, -37) (x3, y3) = (-17, 52). Color: orange. Area = 3759
+505: It is circle: (x1, x2) = (-42, 36) with radius = 95. Color: dark blue. Area = 28352.9
+506: It is circle: (x1, x2) = (31, -9) with radius = 39. Color: green. Area = 4778.36
+507: It is Rectangle: (x1, y1) = (69, 62) (x2, y2)= (92, -42). Color: dark blue. Area = 2392
+508: It is Triangle: (x1, x2) = (28, -11) (x2, y2) = (-23, -24) (x3, y3) = (80, -49). Color: red. Area = 1307
+509: It is Rectangle: (x1, y1) = (-61, 93) (x2, y2)= (40, 38). Color: yellow. Area = 5555
+510: It is circle: (x1, x2) = (-35, 31) with radius = 13. Color: blue. Area = 530.929
+511: It is Rectangle: (x1, y1) = (-96, 90) (x2, y2)= (43, -44). Color: none. Area = 18626
+512: It is Rectangle: (x1, y1) = (14, -72) (x2, y2)= (58, -82). Color: red. Area = 440
+513: It is Rectangle: (x1, y1) = (8, -90) (x2, y2)= (88, -100). Color: yellow. Area = 800
+514: It is circle: (x1, x2) = (-17, 12) with radius = 36. Color: green. Area = 4071.5
+515: It is Rectangle: (x1, y1) = (27, -38) (x2, y2)= (91, -53). Color: red. Area = 960
+516: It is Triangle: (x1, x2) = (-15, -25) (x2, y2) = (-91, -15) (x3, y3) = (-40, -60). Color: yellow. Area = 1455
+517: It is Rectangle: (x1, y1) = (12, 25) (x2, y2)= (86, -24). Color: green. Area = 3626
+518: It is Rectangle: (x1, y1) = (-31, -85) (x2, y2)= (43, -97). Color: green. Area = 888
+519: It is Triangle: (x1, x2) = (-73, -31) (x2, y2) = (15, -63) (x3, y3) = (-99, 58). Color: orange. Area = 3500
+520: It is circle: (x1, x2) = (87, 90) with radius = 57. Color: green. Area = 10207
+521: It is Rectangle: (x1, y1) = (-5, -19) (x2, y2)= (85, -54). Color: yellow. Area = 3150
+522: It is circle: (x1, x2) = (-34, -7) with radius = 66. Color: none. Area = 13684.8
+523: It is circle: (x1, x2) = (-98, -84) with radius = 66. Color: violet. Area = 13684.8
+524: It is Rectangle: (x1, y1) = (-41, -67) (x2, y2)= (34, -78). Color: red. Area = 825
+525: It is Triangle: (x1, x2) = (-47, 68) (x2, y2) = (55, -50) (x3, y3) = (49, -65). Color: red. Area = 1119
+526: It is circle: (x1, x2) = (10, -28) with radius = 75. Color: blue. Area = 17671.5
+527: It is Triangle: (x1, x2) = (44, 38) (x2, y2) = (-24, 17) (x3, y3) = (-75, -27). Color: violet. Area = 960.5
+528: It is Rectangle: (x1, y1) = (99, 56) (x2, y2)= (101, -30). Color: red. Area = 172
+529: It is Triangle: (x1, x2) = (-26, 28) (x2, y2) = (64, -97) (x3, y3) = (-77, 34). Color: dark blue. Area = 2917.5
+530: It is circle: (x1, x2) = (-33, -41) with radius = 51. Color: none. Area = 8171.28
+531: It is Rectangle: (x1, y1) = (-86, 92) (x2, y2)= (7, -64). Color: green. Area = 14508
+532: It is Rectangle: (x1, y1) = (-17, 54) (x2, y2)= (70, -67). Color: red. Area = 10527
+533: It is Triangle: (x1, x2) = (-42, -77) (x2, y2) = (70, -60) (x3, y3) = (65, 97). Color: none. Area = 8834.5
+534: It is circle: (x1, x2) = (-59, -28) with radius = 87. Color: green. Area = 23778.7
+535: It is Rectangle: (x1, y1) = (91, -34) (x2, y2)= (99, -99). Color: green. Area = 520
+536: It is circle: (x1, x2) = (24, 32) with radius = 72. Color: red. Area = 16286
+537: It is Rectangle: (x1, y1) = (78, 5) (x2, y2)= (96, -1). Color: dark blue. Area = 108
+538: It is Triangle: (x1, x2) = (-73, -3) (x2, y2) = (-80, 78) (x3, y3) = (54, -59). Color: red. Area = 4947.5
+539: It is Rectangle: (x1, y1) = (73, 7) (x2, y2)= (99, -98). Color: red. Area = 2730
+540: It is circle: (x1, x2) = (-90, -23) with radius = 81. Color: violet. Area = 20612
+541: It is Rectangle: (x1, y1) = (-92, 15) (x2, y2)= (54, 11). Color: violet. Area = 584
+542: It is circle: (x1, x2) = (-95, -56) with radius = 93. Color: violet. Area = 27171.6
+543: It is Rectangle: (x1, y1) = (-96, 84) (x2, y2)= (-58, -94). Color: red. Area = 6764
+544: It is Rectangle: (x1, y1) = (47, -61) (x2, y2)= (71, -92). Color: violet. Area = 744
+545: It is Rectangle: (x1, y1) = (81, 41) (x2, y2)= (98, -82). Color: red. Area = 2091
+546: It is Rectangle: (x1, y1) = (18, -26) (x2, y2)= (82, -65). Color: yellow. Area = 2496
+547: It is circle: (x1, x2) = (49, -85) with radius = 61. Color: none. Area = 11689.9
+548: It is Rectangle: (x1, y1) = (37, -86) (x2, y2)= (62, -88). Color: orange. Area = 50
+549: It is Rectangle: (x1, y1) = (-46, 36) (x2, y2)= (19, 13). Color: blue. Area = 1495
+550: It is Rectangle: (x1, y1) = (51, 58) (x2, y2)= (56, 14). Color: violet. Area = 220
+551: It is circle: (x1, x2) = (-20, -6) with radius = 17. Color: dark blue. Area = 907.92
+552: It is circle: (x1, x2) = (83, -4) with radius = 18. Color: violet. Area = 1017.88
+553: It is Triangle: (x1, x2) = (6, 79) (x2, y2) = (-21, 6) (x3, y3) = (-60, -98). Color: orange. Area = 19.5
+554: It is Triangle: (x1, x2) = (-24, 35) (x2, y2) = (-56, 21) (x3, y3) = (78, -48). Color: red. Area = 2042
+555: It is circle: (x1, x2) = (95, 13) with radius = 54. Color: green. Area = 9160.88
+556: It is Rectangle: (x1, y1) = (-14, -88) (x2, y2)= (44, -99). Color: red. Area = 638
+557: It is Triangle: (x1, x2) = (91, 66) (x2, y2) = (19, -79) (x3, y3) = (61, 86). Color: red. Area = 2895
+558: It is circle: (x1, x2) = (93, -73) with radius = 6. Color: orange. Area = 113.097
+559: It is Triangle: (x1, x2) = (-56, -50) (x2, y2) = (28, 24) (x3, y3) = (-77, -78). Color: green. Area = 399
+560: It is circle: (x1, x2) = (-53, 16) with radius = 24. Color: violet. Area = 1809.56
+561: It is circle: (x1, x2) = (-51, -16) with radius = 10. Color: green. Area = 314.159
+562: It is Triangle: (x1, x2) = (59, -73) (x2, y2) = (65, -22) (x3, y3) = (22, 96). Color: red. Area = 1450.5
+563: It is circle: (x1, x2) = (51, 61) with radius = 20. Color: green. Area = 1256.64
+564: It is Triangle: (x1, x2) = (-94, 99) (x2, y2) = (-65, 53) (x3, y3) = (-83, 33). Color: none. Area = 704
+565: It is circle: (x1, x2) = (-72, -88) with radius = 27. Color: green. Area = 2290.22
+566: It is Triangle: (x1, x2) = (22, 42) (x2, y2) = (3, -6) (x3, y3) = (4, 30). Color: blue. Area = 318
+567: It is Triangle: (x1, x2) = (-68, -6) (x2, y2) = (-48, 97) (x3, y3) = (16, -24). Color: violet. Area = 4506
+568: It is Triangle: (x1, x2) = (-17, 89) (x2, y2) = (-24, -100) (x3, y3) = (100, 88). Color: dark blue. Area = 11060
+569: It is Rectangle: (x1, y1) = (36, 95) (x2, y2)= (67, 68). Color: red. Area = 837
+570: It is Triangle: (x1, x2) = (-95, 95) (x2, y2) = (81, 43) (x3, y3) = (14, 57). Color: red. Area = 510
+571: It is Triangle: (x1, x2) = (-31, 90) (x2, y2) = (40, -90) (x3, y3) = (-31, 92). Color: violet. Area = 71
+572: It is Triangle: (x1, x2) = (64, -31) (x2, y2) = (-84, -8) (x3, y3) = (57, -15). Color: red. Area = 1103.5
+573: It is circle: (x1, x2) = (28, 25) with radius = 63. Color: yellow. Area = 12469
+574: It is Triangle: (x1, x2) = (5, 21) (x2, y2) = (-33, -52) (x3, y3) = (-44, -89). Color: green. Area = 301.5
+575: It is Rectangle: (x1, y1) = (-91, -99) (x2, y2)= (-30, -101). Color: none. Area = 122
+576: It is circle: (x1, x2) = (-54, -88) with radius = 80. Color: green. Area = 20106.2
+577: It is Rectangle: (x1, y1) = (90, 86) (x2, y2)= (94, -95). Color: red. Area = 724
+578: It is Triangle: (x1, x2) = (-45, 46) (x2, y2) = (71, 16) (x3, y3) = (62, 19). Color: yellow. Area = 39
+579: It is Rectangle: (x1, y1) = (-84, -82) (x2, y2)= (-80, -86). Color: blue. Area = 16
+580: It is circle: (x1, x2) = (-43, 27) with radius = 63. Color: red. Area = 12469
+581: It is Rectangle: (x1, y1) = (29, 3) (x2, y2)= (95, -45). Color: orange. Area = 3168
+582: It is Triangle: (x1, x2) = (-24, 5) (x2, y2) = (-86, 26) (x3, y3) = (-97, 70). Color: orange. Area = 1248.5
+583: It is circle: (x1, x2) = (-54, -91) with radius = 100. Color: blue. Area = 31415.9
+584: It is Triangle: (x1, x2) = (-74, -86) (x2, y2) = (85, -76) (x3, y3) = (17, 24). Color: violet. Area = 8290
+585: It is circle: (x1, x2) = (2, -81) with radius = 7. Color: orange. Area = 153.938
+586: It is Triangle: (x1, x2) = (71, -26) (x2, y2) = (75, 5) (x3, y3) = (33, 34). Color: violet. Area = 709
+587: It is circle: (x1, x2) = (59, 90) with radius = 19. Color: blue. Area = 1134.11
+588: It is Triangle: (x1, x2) = (8, 11) (x2, y2) = (-10, 79) (x3, y3) = (-57, 35). Color: dark blue. Area = 1994
+589: It is Triangle: (x1, x2) = (-79, -29) (x2, y2) = (-20, 68) (x3, y3) = (-35, 1). Color: orange. Area = 1249
+590: It is Rectangle: (x1, y1) = (39, -9) (x2, y2)= (70, -37). Color: dark blue. Area = 868
+591: It is Triangle: (x1, x2) = (21, 83) (x2, y2) = (-42, 20) (x3, y3) = (-80, 75). Color: violet. Area = 2929.5
+592: It is circle: (x1, x2) = (40, -53) with radius = 85. Color: dark blue. Area = 22698
+593: It is Triangle: (x1, x2) = (-9, -7) (x2, y2) = (17, 8) (x3, y3) = (76, -91). Color: green. Area = 1729.5
+594: It is Rectangle: (x1, y1) = (23, 99) (x2, y2)= (99, -60). Color: none. Area = 12084
+595: It is Triangle: (x1, x2) = (-27, -60) (x2, y2) = (38, 37) (x3, y3) = (18, -7). Color: red. Area = 460
+596: It is circle: (x1, x2) = (61, -64) with radius = 28. Color: orange. Area = 2463.01
+597: It is Rectangle: (x1, y1) = (-51, 31) (x2, y2)= (20, -49). Color: violet. Area = 5680
+598: It is Triangle: (x1, x2) = (68, 29) (x2, y2) = (82, -76) (x3, y3) = (-40, 16). Color: green. Area = 5761
+599: It is circle: (x1, x2) = (-48, 49) with radius = 62. Color: orange. Area = 12076.3
+600: It is Triangle: (x1, x2) = (-45, 66) (x2, y2) = (22, -80) (x3, y3) = (-89, 92). Color: orange. Area = 2341
+601: It is Rectangle: (x1, y1) = (-35, -80) (x2, y2)= (69, -91). Color: blue. Area = 1144
+602: It is circle: (x1, x2) = (-85, 93) with radius = 2. Color: green. Area = 12.5664
+603: It is circle: (x1, x2) = (-66, -96) with radius = 80. Color: red. Area = 20106.2
+604: It is Rectangle: (x1, y1) = (-71, 87) (x2, y2)= (1, 13). Color: green. Area = 5328
+605: It is Triangle: (x1, x2) = (-78, 45) (x2, y2) = (-66, 2) (x3, y3) = (-73, -79). Color: orange. Area = 636.5
+606: It is Rectangle: (x1, y1) = (90, 42) (x2, y2)= (91, -80). Color: green. Area = 122
+607: It is Triangle: (x1, x2) = (-52, -49) (x2, y2) = (-98, -39) (x3, y3) = (65, -73). Color: green. Area = 33
+608: It is Triangle: (x1, x2) = (-16, -91) (x2, y2) = (-31, 77) (x3, y3) = (100, 25). Color: red. Area = 10614
+609: It is Triangle: (x1, x2) = (-48, -63) (x2, y2) = (57, 97) (x3, y3) = (71, 21). Color: yellow. Area = 5110
+610: It is circle: (x1, x2) = (87, 96) with radius = 70. Color: dark blue. Area = 15393.8
+611: It is circle: (x1, x2) = (23, -85) with radius = 23. Color: dark blue. Area = 1661.9
+612: It is Triangle: (x1, x2) = (-74, -52) (x2, y2) = (1, -67) (x3, y3) = (-41, 40). Color: red. Area = 3697.5
+613: It is Rectangle: (x1, y1) = (-96, 54) (x2, y2)= (-25, 16). Color: green. Area = 2698
+614: It is Rectangle: (x1, y1) = (-7, -42) (x2, y2)= (22, -89). Color: yellow. Area = 1363
+615: It is Triangle: (x1, x2) = (-52, 39) (x2, y2) = (48, 18) (x3, y3) = (44, 46). Color: violet. Area = 1358
+616: It is Rectangle: (x1, y1) = (10, -85) (x2, y2)= (46, -90). Color: blue. Area = 180
+617: It is Rectangle: (x1, y1) = (-85, 1) (x2, y2)= (14, -26). Color: green. Area = 2673
+618: It is Rectangle: (x1, y1) = (-84, 28) (x2, y2)= (22, -35). Color: green. Area = 6678
+619: It is circle: (x1, x2) = (-19, 36) with radius = 36. Color: none. Area = 4071.5
+620: It is Rectangle: (x1, y1) = (-12, -94) (x2, y2)= (65, -95). Color: yellow. Area = 77
+621: It is Rectangle: (x1, y1) = (89, 61) (x2, y2)= (90, 23). Color: yellow. Area = 38
+622: It is Rectangle: (x1, y1) = (21, 18) (x2, y2)= (44, -54). Color: orange. Area = 1656
+623: It is circle: (x1, x2) = (-53, 15) with radius = 46. Color: none. Area = 6647.61
+624: It is Rectangle: (x1, y1) = (21, 49) (x2, y2)= (27, 9). Color: blue. Area = 240
+625: It is Triangle: (x1, x2) = (-89, 97) (x2, y2) = (9, 8) (x3, y3) = (-96, -95). Color: violet. Area = 9719.5
+626: It is Triangle: (x1, x2) = (26, 23) (x2, y2) = (-93, -64) (x3, y3) = (66, 62). Color: none. Area = 580.5
+627: It is Rectangle: (x1, y1) = (-12, -49) (x2, y2)= (98, -71). Color: none. Area = 2420
+628: It is Triangle: (x1, x2) = (-88, 90) (x2, y2) = (55, -82) (x3, y3) = (-39, -87). Color: red. Area = 8441.5
+629: It is Triangle: (x1, x2) = (-72, -82) (x2, y2) = (-83, -98) (x3, y3) = (46, -75). Color: green. Area = 905.5
+630: It is circle: (x1, x2) = (1, -9) with radius = 24. Color: red. Area = 1809.56
+631: It is Triangle: (x1, x2) = (9, 33) (x2, y2) = (-47, -18) (x3, y3) = (25, -73). Color: blue. Area = 3376
+632: It is circle: (x1, x2) = (60, 72) with radius = 70. Color: red. Area = 15393.8
+633: It is circle: (x1, x2) = (-36, -43) with radius = 7. Color: none. Area = 153.938
+634: It is Rectangle: (x1, y1) = (17, -21) (x2, y2)= (25, -92). Color: dark blue. Area = 568
+635: It is circle: (x1, x2) = (16, 77) with radius = 6. Color: green. Area = 113.097
+636: It is Triangle: (x1, x2) = (-90, 93) (x2, y2) = (-70, -85) (x3, y3) = (74, 16). Color: dark blue. Area = 13826
+637: It is circle: (x1, x2) = (-41, -17) with radius = 53. Color: dark blue. Area = 8824.73
+638: It is Triangle: (x1, x2) = (-24, 54) (x2, y2) = (1, 70) (x3, y3) = (-63, 44). Color: green. Area = 187
+639: It is Rectangle: (x1, y1) = (53, -84) (x2, y2)= (57, -98). Color: violet. Area = 56
+640: It is circle: (x1, x2) = (-21, -51) with radius = 10. Color: violet. Area = 314.159
+641: It is Triangle: (x1, x2) = (-74, -53) (x2, y2) = (-29, -70) (x3, y3) = (28, 42). Color: blue. Area = 3004.5
+642: It is Triangle: (x1, x2) = (93, -96) (x2, y2) = (1, 53) (x3, y3) = (-92, -65). Color: dark blue. Area = 12356.5
+643: It is Triangle: (x1, x2) = (-28, 22) (x2, y2) = (69, 72) (x3, y3) = (66, 40). Color: none. Area = 1477
+644: It is Triangle: (x1, x2) = (-57, -41) (x2, y2) = (82, 74) (x3, y3) = (-64, 60). Color: dark blue. Area = 7422
+645: It is Triangle: (x1, x2) = (-66, 91) (x2, y2) = (-26, -27) (x3, y3) = (83, -88). Color: violet. Area = 5211
+646: It is Rectangle: (x1, y1) = (73, -97) (x2, y2)= (88, -99). Color: red. Area = 30
+647: It is circle: (x1, x2) = (-29, -6) with radius = 1. Color: red. Area = 3.14159
+648: It is circle: (x1, x2) = (-6, 56) with radius = 36. Color: blue. Area = 4071.5
+649: It is circle: (x1, x2) = (36, 86) with radius = 72. Color: none. Area = 16286
+650: It is Rectangle: (x1, y1) = (7, 76) (x2, y2)= (47, 0). Color: green. Area = 3040
+651: It is Rectangle: (x1, y1) = (74, 45) (x2, y2)= (95, 43). Color: violet. Area = 42
+652: It is Triangle: (x1, x2) = (6, 63) (x2, y2) = (87, -1) (x3, y3) = (-41, 98). Color: yellow. Area = 86.5
+653: It is circle: (x1, x2) = (60, -96) with radius = 100. Color: violet. Area = 31415.9
+654: It is Triangle: (x1, x2) = (95, 24) (x2, y2) = (27, 18) (x3, y3) = (-67, -49). Color: blue. Area = 1996
+655: It is Rectangle: (x1, y1) = (-45, -74) (x2, y2)= (-29, -90). Color: none. Area = 256
+656: It is Rectangle: (x1, y1) = (17, 64) (x2, y2)= (41, 63). Color: dark blue. Area = 24
+657: It is circle: (x1, x2) = (-35, -57) with radius = 64. Color: blue. Area = 12868
+658: It is Rectangle: (x1, y1) = (17, 73) (x2, y2)= (99, -44). Color: violet. Area = 9594
+659: It is Triangle: (x1, x2) = (-43, -91) (x2, y2) = (43, 51) (x3, y3) = (29, -35). Color: red. Area = 2704
+660: It is circle: (x1, x2) = (79, -100) with radius = 43. Color: dark blue. Area = 5808.8
+661: It is Triangle: (x1, x2) = (-81, -42) (x2, y2) = (78, -3) (x3, y3) = (-48, -28). Color: none. Area = 469.5
+662: It is circle: (x1, x2) = (-54, -76) with radius = 49. Color: yellow. Area = 7542.96
+663: It is Rectangle: (x1, y1) = (-57, 74) (x2, y2)= (64, -12). Color: green. Area = 10406
+664: It is Triangle: (x1, x2) = (69, -53) (x2, y2) = (25, 4) (x3, y3) = (-9, -44). Color: red. Area = 2025
+665: It is Rectangle: (x1, y1) = (98, 54) (x2, y2)= (99, -39). Color: red. Area = 93
+666: It is Triangle: (x1, x2) = (5, 32) (x2, y2) = (68, 40) (x3, y3) = (-24, 26). Color: none. Area = 73
+667: It is Rectangle: (x1, y1) = (26, 52) (x2, y2)= (41, -13). Color: none. Area = 975
+668: It is Triangle: (x1, x2) = (79, -75) (x2, y2) = (41, -76) (x3, y3) = (30, -64). Color: orange. Area = 233.5
+669: It is Triangle: (x1, x2) = (-98, 64) (x2, y2) = (65, 40) (x3, y3) = (-10, 98). Color: green. Area = 3827
+670: It is Rectangle: (x1, y1) = (0, -75) (x2, y2)= (95, -78). Color: blue. Area = 285
+671: It is Rectangle: (x1, y1) = (55, -83) (x2, y2)= (92, -96). Color: yellow. Area = 481
+672: It is Triangle: (x1, x2) = (-49, 23) (x2, y2) = (28, -58) (x3, y3) = (97, 58). Color: green. Area = 7260.5
+673: It is circle: (x1, x2) = (-38, 89) with radius = 10. Color: none. Area = 314.159
+674: It is Triangle: (x1, x2) = (62, -49) (x2, y2) = (30, -2) (x3, y3) = (-50, -60). Color: violet. Area = 2808
+675: It is Triangle: (x1, x2) = (-54, -12) (x2, y2) = (-70, -26) (x3, y3) = (89, 15). Color: red. Area = 785
+676: It is Rectangle: (x1, y1) = (-64, -17) (x2, y2)= (-15, -81). Color: green. Area = 3136
+677: It is Rectangle: (x1, y1) = (92, 37) (x2, y2)= (100, -24). Color: yellow. Area = 488
+678: It is circle: (x1, x2) = (18, 60) with radius = 33. Color: red. Area = 3421.19
+679: It is circle: (x1, x2) = (5, -44) with radius = 8. Color: dark blue. Area = 201.062
+680: It is Triangle: (x1, x2) = (46, 81) (x2, y2) = (99, 44) (x3, y3) = (-11, 37). Color: red. Area = 2220.5
+681: It is circle: (x1, x2) = (-4, -54) with radius = 39. Color: violet. Area = 4778.36
+682: It is Triangle: (x1, x2) = (50, -7) (x2, y2) = (10, 29) (x3, y3) = (-96, -69). Color: none. Area = 3868
+683: It is circle: (x1, x2) = (89, 4) with radius = 86. Color: yellow. Area = 23235.2
+684: It is circle: (x1, x2) = (-78, 99) with radius = 14. Color: orange. Area = 615.752
+685: It is circle: (x1, x2) = (20, 98) with radius = 62. Color: yellow. Area = 12076.3
+686: It is Rectangle: (x1, y1) = (34, -41) (x2, y2)= (69, -57). Color: violet. Area = 560
+687: It is Triangle: (x1, x2) = (90, -95) (x2, y2) = (77, -81) (x3, y3) = (73, 0). Color: yellow. Area = 498.5
+688: It is circle: (x1, x2) = (51, -47) with radius = 91. Color: green. Area = 26015.5
+689: It is Rectangle: (x1, y1) = (-23, -31) (x2, y2)= (81, -78). Color: blue. Area = 4888
+690: It is circle: (x1, x2) = (-57, -13) with radius = 75. Color: violet. Area = 17671.5
+691: It is Rectangle: (x1, y1) = (-20, 58) (x2, y2)= (100, -44). Color: blue. Area = 12240
+692: It is Triangle: (x1, x2) = (-56, -30) (x2, y2) = (-83, -66) (x3, y3) = (-32, -41). Color: dark blue. Area = 580.5
+693: It is Triangle: (x1, x2) = (-67, 21) (x2, y2) = (45, 63) (x3, y3) = (-24, 48). Color: green. Area = 609
+694: It is circle: (x1, x2) = (22, 98) with radius = 4. Color: blue. Area = 50.2655
+695: It is Rectangle: (x1, y1) = (54, -56) (x2, y2)= (63, -66). Color: green. Area = 90
+696: It is Triangle: (x1, x2) = (46, -64) (x2, y2) = (0, 19) (x3, y3) = (23, 71). Color: red. Area = 2150.5
+697: It is Rectangle: (x1, y1) = (-36, -19) (x2, y2)= (7, -30). Color: orange. Area = 473
+698: It is Triangle: (x1, x2) = (20, 81) (x2, y2) = (72, 72) (x3, y3) = (19, 53). Color: green. Area = 732.5
+699: It is Triangle: (x1, x2) = (90, 31) (x2, y2) = (60, 52) (x3, y3) = (-65, 47). Color: green. Area = 1387.5
+700: It is circle: (x1, x2) = (51, 50) with radius = 89. Color: dark blue. Area = 24884.6
+701: It is Rectangle: (x1, y1) = (93, -64) (x2, y2)= (95, -66). Color: red. Area = 4
+702: It is circle: (x1, x2) = (31, -49) with radius = 57. Color: yellow. Area = 10207
+703: It is Triangle: (x1, x2) = (-70, 12) (x2, y2) = (56, -64) (x3, y3) = (-98, 99). Color: dark blue. Area = 4417
+704: It is circle: (x1, x2) = (0, 89) with radius = 90. Color: none. Area = 25446.9
+705: It is Triangle: (x1, x2) = (-53, -64) (x2, y2) = (-24, 31) (x3, y3) = (-96, -30). Color: orange. Area = 2535.5
+706: It is Triangle: (x1, x2) = (91, -24) (x2, y2) = (24, 74) (x3, y3) = (-41, -63). Color: blue. Area = 7774.5
+707: It is Rectangle: (x1, y1) = (55, -49) (x2, y2)= (81, -53). Color: yellow. Area = 104
+708: It is circle: (x1, x2) = (81, 91) with radius = 98. Color: blue. Area = 30171.9
+709: It is Triangle: (x1, x2) = (-70, 36) (x2, y2) = (88, -96) (x3, y3) = (24, -10). Color: green. Area = 2570
+710: It is Rectangle: (x1, y1) = (11, 24) (x2, y2)= (12, -54). Color: dark blue. Area = 78
+711: It is Triangle: (x1, x2) = (-39, 69) (x2, y2) = (-42, 56) (x3, y3) = (92, -29). Color: violet. Area = 998.5
+712: It is Rectangle: (x1, y1) = (7, 2) (x2, y2)= (27, -41). Color: violet. Area = 860
+713: It is Rectangle: (x1, y1) = (-67, 23) (x2, y2)= (-61, -70). Color: orange. Area = 558
+714: It is circle: (x1, x2) = (-68, -53) with radius = 14. Color: none. Area = 615.752
+715: It is circle: (x1, x2) = (3, -59) with radius = 85. Color: violet. Area = 22698
+716: It is Triangle: (x1, x2) = (75, -1) (x2, y2) = (29, -72) (x3, y3) = (20, -93). Color: none. Area = 163.5
+717: It is Rectangle: (x1, y1) = (78, 31) (x2, y2)= (94, -43). Color: blue. Area = 1184
+718: It is Triangle: (x1, x2) = (-76, -98) (x2, y2) = (57, 24) (x3, y3) = (-92, -98). Color: blue. Area = 976
+719: It is Rectangle: (x1, y1) = (-43, -50) (x2, y2)= (-13, -51). Color: violet. Area = 30
+720: It is circle: (x1, x2) = (-64, 98) with radius = 25. Color: green. Area = 1963.5
+721: It is Triangle: (x1, x2) = (51, -3) (x2, y2) = (90, 30) (x3, y3) = (51, -17). Color: violet. Area = 273
+722: It is circle: (x1, x2) = (13, 47) with radius = 56. Color: violet. Area = 9852.03
+723: It is Triangle: (x1, x2) = (8, 99) (x2, y2) = (-53, -23) (x3, y3) = (-9, -47). Color: violet. Area = 3416
+724: It is Triangle: (x1, x2) = (-27, 33) (x2, y2) = (38, 14) (x3, y3) = (69, 93). Color: blue. Area = 2862
+725: It is Triangle: (x1, x2) = (97, -87) (x2, y2) = (-24, -36) (x3, y3) = (-59, 97). Color: green. Area = 7154
+726: It is Triangle: (x1, x2) = (89, 82) (x2, y2) = (-79, -66) (x3, y3) = (-39, 70). Color: green. Area = 8464
+727: It is Rectangle: (x1, y1) = (-78, 43) (x2, y2)= (-51, -5). Color: orange. Area = 1296
+728: It is Triangle: (x1, x2) = (-88, -20) (x2, y2) = (84, 26) (x3, y3) = (-63, 91). Color: yellow. Area = 8971
+729: It is circle: (x1, x2) = (-1, -5) with radius = 45. Color: green. Area = 6361.73
+730: It is Triangle: (x1, x2) = (-26, 51) (x2, y2) = (72, -76) (x3, y3) = (-72, -95). Color: orange. Area = 10075
+731: It is circle: (x1, x2) = (90, 4) with radius = 40. Color: red. Area = 5026.55
+732: It is Rectangle: (x1, y1) = (-55, 90) (x2, y2)= (73, 1). Color: green. Area = 11392
+733: It is Rectangle: (x1, y1) = (-13, -34) (x2, y2)= (6, -39). Color: none. Area = 95
+734: It is circle: (x1, x2) = (-68, -40) with radius = 45. Color: green. Area = 6361.73
+735: It is Triangle: (x1, x2) = (-73, -80) (x2, y2) = (51, 17) (x3, y3) = (82, -3). Color: blue. Area = 2743.5
+736: It is circle: (x1, x2) = (41, -90) with radius = 96. Color: green. Area = 28952.9
+737: It is Triangle: (x1, x2) = (77, -25) (x2, y2) = (73, -38) (x3, y3) = (-33, -8). Color: orange. Area = 749
+738: It is Rectangle: (x1, y1) = (3, 63) (x2, y2)= (60, 7). Color: blue. Area = 3192
+739: It is circle: (x1, x2) = (30, 5) with radius = 3. Color: dark blue. Area = 28.2743
+740: It is Rectangle: (x1, y1) = (-73, 6) (x2, y2)= (86, -85). Color: red. Area = 14469
+741: It is Triangle: (x1, x2) = (63, 68) (x2, y2) = (-34, -5) (x3, y3) = (38, 98). Color: orange. Area = 2367.5
+742: It is Rectangle: (x1, y1) = (-13, -92) (x2, y2)= (21, -98). Color: none. Area = 204
+743: It is Rectangle: (x1, y1) = (16, -49) (x2, y2)= (62, -84). Color: blue. Area = 1610
+744: It is Rectangle: (x1, y1) = (-85, 42) (x2, y2)= (90, -100). Color: red. Area = 24850
+745: It is Rectangle: (x1, y1) = (13, -59) (x2, y2)= (69, -66). Color: blue. Area = 392
+746: It is Rectangle: (x1, y1) = (59, 84) (x2, y2)= (94, 7). Color: none. Area = 2695
+747: It is Rectangle: (x1, y1) = (43, 75) (x2, y2)= (89, -43). Color: dark blue. Area = 5428
+748: It is circle: (x1, x2) = (-83, 79) with radius = 82. Color: yellow. Area = 21124.1
+749: It is Rectangle: (x1, y1) = (24, -58) (x2, y2)= (47, -83). Color: red. Area = 575
+750: It is Triangle: (x1, x2) = (42, 26) (x2, y2) = (52, -26) (x3, y3) = (-53, -21). Color: blue. Area = 2705
+751: It is Triangle: (x1, x2) = (-24, -16) (x2, y2) = (-35, 4) (x3, y3) = (11, -56). Color: yellow. Area = 130
+752: It is circle: (x1, x2) = (76, -37) with radius = 94. Color: violet. Area = 27759.1
+753: It is circle: (x1, x2) = (28, -2) with radius = 3. Color: none. Area = 28.2743
+754: It is Rectangle: (x1, y1) = (-7, 20) (x2, y2)= (86, -98). Color: yellow. Area = 10974
+755: It is Rectangle: (x1, y1) = (29, 39) (x2, y2)= (52, -15). Color: dark blue. Area = 1242
+756: It is Triangle: (x1, x2) = (72, -63) (x2, y2) = (-22, 51) (x3, y3) = (100, -91). Color: blue. Area = 280
+757: It is Rectangle: (x1, y1) = (64, 12) (x2, y2)= (99, 2). Color: blue. Area = 350
+758: It is Rectangle: (x1, y1) = (89, -21) (x2, y2)= (96, -46). Color: violet. Area = 175
+759: It is Triangle: (x1, x2) = (11, 100) (x2, y2) = (64, -59) (x3, y3) = (91, 49). Color: blue. Area = 5008.5
+760: It is Rectangle: (x1, y1) = (9, -11) (x2, y2)= (70, -88). Color: blue. Area = 4697
+761: It is Rectangle: (x1, y1) = (-27, 22) (x2, y2)= (-9, 16). Color: violet. Area = 108
+762: It is circle: (x1, x2) = (47, 19) with radius = 73. Color: dark blue. Area = 16741.5
+763: It is Triangle: (x1, x2) = (-5, -48) (x2, y2) = (81, -96) (x3, y3) = (11, 4). Color: none. Area = 2620
+764: It is Triangle: (x1, x2) = (-4, 95) (x2, y2) = (-6, 28) (x3, y3) = (33, 61). Color: red. Area = 1273.5
+765: It is circle: (x1, x2) = (14, -38) with radius = 79. Color: dark blue. Area = 19606.7
+766: It is circle: (x1, x2) = (14, 66) with radius = 30. Color: yellow. Area = 2827.43
+767: It is circle: (x1, x2) = (-85, 46) with radius = 33. Color: red. Area = 3421.19
+768: It is circle: (x1, x2) = (-7, -54) with radius = 45. Color: yellow. Area = 6361.73
+769: It is circle: (x1, x2) = (19, 85) with radius = 58. Color: blue. Area = 10568.3
+770: It is circle: (x1, x2) = (54, 11) with radius = 30. Color: green. Area = 2827.43
+771: It is circle: (x1, x2) = (6, 30) with radius = 51. Color: red. Area = 8171.28
+772: It is Triangle: (x1, x2) = (-12, -98) (x2, y2) = (64, -4) (x3, y3) = (-67, -59). Color: dark blue. Area = 4067
+773: It is Rectangle: (x1, y1) = (-44, -35) (x2, y2)= (17, -47). Color: none. Area = 732
+774: It is circle: (x1, x2) = (-15, 80) with radius = 84. Color: orange. Area = 22167.1
+775: It is Rectangle: (x1, y1) = (-71, -7) (x2, y2)= (-49, -71). Color: blue. Area = 1408
+776: It is circle: (x1, x2) = (61, -100) with radius = 9. Color: yellow. Area = 254.469
+777: It is Triangle: (x1, x2) = (100, -91) (x2, y2) = (45, -96) (x3, y3) = (-62, -51). Color: red. Area = 1505
+778: It is Triangle: (x1, x2) = (-87, 25) (x2, y2) = (44, 65) (x3, y3) = (-22, 71). Color: orange. Area = 1713
+779: It is circle: (x1, x2) = (2, 31) with radius = 81. Color: violet. Area = 20612
+780: It is Triangle: (x1, x2) = (14, 55) (x2, y2) = (10, -15) (x3, y3) = (18, 46). Color: orange. Area = 158
+781: It is circle: (x1, x2) = (75, 79) with radius = 14. Color: none. Area = 615.752
+782: It is circle: (x1, x2) = (27, 7) with radius = 53. Color: violet. Area = 8824.73
+783: It is Rectangle: (x1, y1) = (2, 33) (x2, y2)= (81, -67). Color: yellow. Area = 7900
+784: It is Rectangle: (x1, y1) = (-42, -39) (x2, y2)= (16, -58). Color: green. Area = 1102
+785: It is circle: (x1, x2) = (71, -1) with radius = 93. Color: dark blue. Area = 27171.6
+786: It is circle: (x1, x2) = (-33, 40) with radius = 72. Color: red. Area = 16286
+787: It is circle: (x1, x2) = (-64, -23) with radius = 13. Color: yellow. Area = 530.929
+788: It is circle: (x1, x2) = (-36, -88) with radius = 47. Color: yellow. Area = 6939.78
+789: It is Triangle: (x1, x2) = (54, -51) (x2, y2) = (75, 48) (x3, y3) = (-52, 69). Color: blue. Area = 6507
+790: It is Triangle: (x1, x2) = (-62, 40) (x2, y2) = (-29, -2) (x3, y3) = (64, -16). Color: blue. Area = 1722
+791: It is Rectangle: (x1, y1) = (-99, -76) (x2, y2)= (-74, -80). Color: green. Area = 100
+792: It is circle: (x1, x2) = (-87, 26) with radius = 11. Color: orange. Area = 380.133
+793: It is Rectangle: (x1, y1) = (-51, -19) (x2, y2)= (7, -48). Color: red. Area = 1682
+794: It is circle: (x1, x2) = (-1, 96) with radius = 45. Color: blue. Area = 6361.73
+795: It is circle: (x1, x2) = (-38, 86) with radius = 78. Color: dark blue. Area = 19113.4
+796: It is Rectangle: (x1, y1) = (87, -76) (x2, y2)= (98, -79). Color: red. Area = 33
+797: It is Triangle: (x1, x2) = (35, -63) (x2, y2) = (-8, -49) (x3, y3) = (-14, 72). Color: red. Area = 2559.5
+798: It is Rectangle: (x1, y1) = (91, -46) (x2, y2)= (96, -71). Color: red. Area = 125
+799: It is Rectangle: (x1, y1) = (7, 15) (x2, y2)= (34, -31). Color: yellow. Area = 1242
+800: It is Rectangle: (x1, y1) = (22, -73) (x2, y2)= (99, -86). Color: dark blue. Area = 1001
+801: It is Rectangle: (x1, y1) = (10, -36) (x2, y2)= (45, -64). Color: green. Area = 980
+802: It is Triangle: (x1, x2) = (-58, -54) (x2, y2) = (-59, 49) (x3, y3) = (-89, -27). Color: blue. Area = 1583
+803: It is Triangle: (x1, x2) = (72, 43) (x2, y2) = (85, 87) (x3, y3) = (14, -38). Color: violet. Area = 749.5
+804: It is circle: (x1, x2) = (-3, 62) with radius = 18. Color: orange. Area = 1017.88
+805: It is circle: (x1, x2) = (59, -18) with radius = 22. Color: none. Area = 1520.53
+806: It is Triangle: (x1, x2) = (-68, 13) (x2, y2) = (51, -85) (x3, y3) = (-12, -61). Color: dark blue. Area = 1659
+807: It is Rectangle: (x1, y1) = (-100, -9) (x2, y2)= (-38, -58). Color: orange. Area = 3038
+808: It is Rectangle: (x1, y1) = (-82, 10) (x2, y2)= (14, -33). Color: green. Area = 4128
+809: It is Triangle: (x1, x2) = (13, -69) (x2, y2) = (43, -81) (x3, y3) = (51, -3). Color: orange. Area = 1218
+810: It is circle: (x1, x2) = (-80, -99) with radius = 68. Color: yellow. Area = 14526.7
+811: It is Triangle: (x1, x2) = (-52, -89) (x2, y2) = (49, 69) (x3, y3) = (-55, -2). Color: red. Area = 4630.5
+812: It is Triangle: (x1, x2) = (-52, 19) (x2, y2) = (64, 61) (x3, y3) = (-29, -83). Color: none. Area = 6399
+813: It is Rectangle: (x1, y1) = (-58, 51) (x2, y2)= (-51, 44). Color: blue. Area = 49
+814: It is Rectangle: (x1, y1) = (-46, 0) (x2, y2)= (-3, -45). Color: blue. Area = 1935
+815: It is Rectangle: (x1, y1) = (-39, -77) (x2, y2)= (43, -80). Color: violet. Area = 246
+816: It is Triangle: (x1, x2) = (99, -6) (x2, y2) = (-36, 6) (x3, y3) = (-18, -23). Color: orange. Area = 1849.5
+817: It is Rectangle: (x1, y1) = (-60, 55) (x2, y2)= (38, 37). Color: none. Area = 1764
+818: It is circle: (x1, x2) = (51, -73) with radius = 36. Color: orange. Area = 4071.5
+819: It is Rectangle: (x1, y1) = (66, 12) (x2, y2)= (70, -63). Color: orange. Area = 300
+820: It is circle: (x1, x2) = (-17, -45) with radius = 83. Color: green. Area = 21642.4
+821: It is Triangle: (x1, x2) = (-70, 76) (x2, y2) = (-77, -52) (x3, y3) = (52, 80). Color: violet. Area = 7794
+822: It is circle: (x1, x2) = (-89, 11) with radius = 1. Color: dark blue. Area = 3.14159
+823: It is circle: (x1, x2) = (-98, 66) with radius = 34. Color: green. Area = 3631.68
+824: It is circle: (x1, x2) = (91, -93) with radius = 1. Color: red. Area = 3.14159
+825: It is circle: (x1, x2) = (-92, -10) with radius = 62. Color: blue. Area = 12076.3
+826: It is circle: (x1, x2) = (16, 43) with radius = 27. Color: yellow. Area = 2290.22
+827: It is Triangle: (x1, x2) = (94, 99) (x2, y2) = (-36, 40) (x3, y3) = (-26, 14). Color: yellow. Area = 1985
+828: It is circle: (x1, x2) = (-80, -5) with radius = 64. Color: orange. Area = 12868
+829: It is Triangle: (x1, x2) = (72, 12) (x2, y2) = (44, 17) (x3, y3) = (84, 55). Color: violet. Area = 632
+830: It is Rectangle: (x1, y1) = (93, 37) (x2, y2)= (94, -84). Color: orange. Area = 121
+831: It is Rectangle: (x1, y1) = (61, -9) (x2, y2)= (88, -24). Color: yellow. Area = 405
+832: It is circle: (x1, x2) = (24, -14) with radius = 68. Color: none. Area = 14526.7
+833: It is Rectangle: (x1, y1) = (-3, -40) (x2, y2)= (68, -56). Color: blue. Area = 1136
+834: It is Rectangle: (x1, y1) = (-14, -86) (x2, y2)= (59, -87). Color: dark blue. Area = 73
+835: It is circle: (x1, x2) = (-43, -48) with radius = 17. Color: orange. Area = 907.92
+836: It is circle: (x1, x2) = (43, 60) with radius = 43. Color: orange. Area = 5808.8
+837: It is Triangle: (x1, x2) = (18, 29) (x2, y2) = (33, 74) (x3, y3) = (-30, 95). Color: dark blue. Area = 1575
+838: It is Triangle: (x1, x2) = (-3, -37) (x2, y2) = (89, 32) (x3, y3) = (-14, 68). Color: yellow. Area = 5209.5
+839: It is Rectangle: (x1, y1) = (-85, -55) (x2, y2)= (100, -100). Color: violet. Area = 8325
+840: It is circle: (x1, x2) = (-25, -30) with radius = 56. Color: red. Area = 9852.03
+841: It is Triangle: (x1, x2) = (4, 5) (x2, y2) = (-5, -50) (x3, y3) = (45, -84). Color: red. Area = 1528
+842: It is Rectangle: (x1, y1) = (-36, -54) (x2, y2)= (59, -90). Color: green. Area = 3420
+843: It is Triangle: (x1, x2) = (93, 80) (x2, y2) = (12, 51) (x3, y3) = (-57, -70). Color: red. Area = 3900
+844: It is Rectangle: (x1, y1) = (79, -84) (x2, y2)= (95, -101). Color: green. Area = 272
+845: It is circle: (x1, x2) = (-19, -77) with radius = 51. Color: yellow. Area = 8171.28
+846: It is Triangle: (x1, x2) = (-44, -32) (x2, y2) = (85, -24) (x3, y3) = (-14, -50). Color: orange. Area = 1281
+847: It is circle: (x1, x2) = (-51, 39) with radius = 58. Color: red. Area = 10568.3
+848: It is circle: (x1, x2) = (26, -13) with radius = 8. Color: orange. Area = 201.062
+849: It is circle: (x1, x2) = (30, -34) with radius = 92. Color: green. Area = 26590.4
+850: It is Rectangle: (x1, y1) = (-54, -63) (x2, y2)= (48, -98). Color: dark blue. Area = 3570
+851: It is Triangle: (x1, x2) = (-49, 70) (x2, y2) = (80, 43) (x3, y3) = (17, -62). Color: dark blue. Area = 7623
+852: It is Triangle: (x1, x2) = (44, 91) (x2, y2) = (83, 48) (x3, y3) = (-42, 74). Color: yellow. Area = 2180.5
+853: It is circle: (x1, x2) = (-59, -63) with radius = 32. Color: red. Area = 3216.99
+854: It is circle: (x1, x2) = (65, 59) with radius = 26. Color: blue. Area = 2123.72
+855: It is Triangle: (x1, x2) = (10, -37) (x2, y2) = (-35, 31) (x3, y3) = (86, 14). Color: green. Area = 3731.5
+856: It is circle: (x1, x2) = (33, -49) with radius = 28. Color: violet. Area = 2463.01
+857: It is Rectangle: (x1, y1) = (96, -45) (x2, y2)= (97, -70). Color: orange. Area = 25
+858: It is circle: (x1, x2) = (-82, -80) with radius = 92. Color: violet. Area = 26590.4
+859: It is Rectangle: (x1, y1) = (-48, 25) (x2, y2)= (72, -48). Color: yellow. Area = 8760
+860: It is Triangle: (x1, x2) = (21, -98) (x2, y2) = (11, -30) (x3, y3) = (-32, -57). Color: red. Area = 1597
+861: It is circle: (x1, x2) = (-93, 72) with radius = 36. Color: dark blue. Area = 4071.5
+862: It is Triangle: (x1, x2) = (-79, -34) (x2, y2) = (74, 5) (x3, y3) = (49, 46). Color: none. Area = 3624
+863: It is circle: (x1, x2) = (-49, 34) with radius = 13. Color: dark blue. Area = 530.929
+864: It is circle: (x1, x2) = (-48, 43) with radius = 4. Color: green. Area = 50.2655
+865: It is circle: (x1, x2) = (88, -89) with radius = 18. Color: violet. Area = 1017.88
+866: It is Triangle: (x1, x2) = (-38, 55) (x2, y2) = (-75, 99) (x3, y3) = (14, -63). Color: none. Area = 1039
+867: It is Triangle: (x1, x2) = (-73, 43) (x2, y2) = (-83, 72) (x3, y3) = (-87, 3). Color: none. Area = 403
+868: It is Triangle: (x1, x2) = (-33, 28) (x2, y2) = (97, -39) (x3, y3) = (42, 3). Color: red. Area = 887.5
+869: It is circle: (x1, x2) = (-20, 98) with radius = 66. Color: dark blue. Area = 13684.8
+870: It is Triangle: (x1, x2) = (-53, 71) (x2, y2) = (-40, -41) (x3, y3) = (69, 55). Color: red. Area = 6728
+871: It is Triangle: (x1, x2) = (24, -84) (x2, y2) = (67, 54) (x3, y3) = (64, -72). Color: none. Area = 2502
+872: It is Triangle: (x1, x2) = (54, 88) (x2, y2) = (80, 86) (x3, y3) = (-42, 93). Color: orange. Area = 31
+873: It is circle: (x1, x2) = (-4, -53) with radius = 24. Color: red. Area = 1809.56
+874: It is circle: (x1, x2) = (-9, 44) with radius = 69. Color: red. Area = 14957.1
+875: It is Triangle: (x1, x2) = (-55, -20) (x2, y2) = (33, 60) (x3, y3) = (-66, -13). Color: yellow. Area = 748
+876: It is Triangle: (x1, x2) = (-23, -68) (x2, y2) = (-79, -3) (x3, y3) = (58, 79). Color: violet. Area = 6748.5
+877: It is circle: (x1, x2) = (71, 72) with radius = 88. Color: violet. Area = 24328.5
+878: It is Rectangle: (x1, y1) = (-14, -11) (x2, y2)= (-11, -100). Color: none. Area = 267
+879: It is Rectangle: (x1, y1) = (20, -46) (x2, y2)= (23, -89). Color: none. Area = 129
+880: It is Triangle: (x1, x2) = (92, 55) (x2, y2) = (-22, 14) (x3, y3) = (0, 10). Color: violet. Area = 679
+881: It is Triangle: (x1, x2) = (86, 95) (x2, y2) = (20, 63) (x3, y3) = (41, 99). Color: none. Area = 852
+882: It is Triangle: (x1, x2) = (82, -96) (x2, y2) = (20, -24) (x3, y3) = (44, -84). Color: none. Area = 996
+883: It is Rectangle: (x1, y1) = (55, -52) (x2, y2)= (78, -53). Color: blue. Area = 23
+884: It is Rectangle: (x1, y1) = (-49, 69) (x2, y2)= (-46, -58). Color: none. Area = 381
+885: It is Rectangle: (x1, y1) = (-32, -26) (x2, y2)= (97, -81). Color: blue. Area = 7095
+886: It is Rectangle: (x1, y1) = (-72, -77) (x2, y2)= (-36, -92). Color: yellow. Area = 540
+887: It is Triangle: (x1, x2) = (-88, -15) (x2, y2) = (25, 64) (x3, y3) = (-19, -83). Color: dark blue. Area = 6567.5
+888: It is Triangle: (x1, x2) = (-58, 75) (x2, y2) = (-76, -41) (x3, y3) = (-92, 17). Color: red. Area = 1450
+889: It is Triangle: (x1, x2) = (-9, 59) (x2, y2) = (34, 34) (x3, y3) = (-25, -75). Color: violet. Area = 3081
+890: It is Triangle: (x1, x2) = (-98, -51) (x2, y2) = (18, 80) (x3, y3) = (38, 13). Color: blue. Area = 5196
+891: It is circle: (x1, x2) = (-50, -71) with radius = 68. Color: orange. Area = 14526.7
+892: It is circle: (x1, x2) = (84, 74) with radius = 94. Color: yellow. Area = 27759.1
+893: It is circle: (x1, x2) = (-71, 37) with radius = 20. Color: dark blue. Area = 1256.64
+894: It is Rectangle: (x1, y1) = (11, 14) (x2, y2)= (23, -68). Color: dark blue. Area = 984
+895: It is circle: (x1, x2) = (16, 96) with radius = 97. Color: yellow. Area = 29559.2
+896: It is Rectangle: (x1, y1) = (-100, -88) (x2, y2)= (-39, -96). Color: none. Area = 488
+897: It is Rectangle: (x1, y1) = (-69, 43) (x2, y2)= (-6, -40). Color: orange. Area = 5229
+898: It is Triangle: (x1, x2) = (-13, 39) (x2, y2) = (-61, 63) (x3, y3) = (42, -35). Color: orange. Area = 1116
+899: It is Triangle: (x1, x2) = (-39, -9) (x2, y2) = (-85, 67) (x3, y3) = (40, -21). Color: dark blue. Area = 2726
+900: It is Rectangle: (x1, y1) = (20, 93) (x2, y2)= (87, 48). Color: none. Area = 3015
+901: It is circle: (x1, x2) = (-58, -29) with radius = 42. Color: dark blue. Area = 5541.77
+902: It is circle: (x1, x2) = (-89, -7) with radius = 30. Color: violet. Area = 2827.43
+903: It is Rectangle: (x1, y1) = (100, 37) (x2, y2)= (101, -18). Color: dark blue. Area = 55
+904: It is circle: (x1, x2) = (74, -18) with radius = 16. Color: none. Area = 804.248
+905: It is circle: (x1, x2) = (36, 50) with radius = 89. Color: violet. Area = 24884.6
+906: It is circle: (x1, x2) = (73, -68) with radius = 39. Color: yellow. Area = 4778.36
+907: It is Triangle: (x1, x2) = (-40, 41) (x2, y2) = (33, -90) (x3, y3) = (-31, -76). Color: yellow. Area = 3681
+908: It is Rectangle: (x1, y1) = (18, -81) (x2, y2)= (42, -98). Color: violet. Area = 408
+909: It is circle: (x1, x2) = (-63, -7) with radius = 25. Color: blue. Area = 1963.5
+910: It is circle: (x1, x2) = (79, 61) with radius = 15. Color: violet. Area = 706.858
+911: It is circle: (x1, x2) = (-85, -58) with radius = 3. Color: orange. Area = 28.2743
+912: It is Triangle: (x1, x2) = (78, -54) (x2, y2) = (-23, 57) (x3, y3) = (-54, -79). Color: red. Area = 8588.5
+913: It is Triangle: (x1, x2) = (20, 34) (x2, y2) = (-67, 66) (x3, y3) = (8, 19). Color: none. Area = 844.5
+914: It is circle: (x1, x2) = (78, 7) with radius = 61. Color: none. Area = 11689.9
+915: It is circle: (x1, x2) = (13, -87) with radius = 57. Color: dark blue. Area = 10207
+916: It is circle: (x1, x2) = (-31, 47) with radius = 59. Color: red. Area = 10935.9
+917: It is Triangle: (x1, x2) = (56, -66) (x2, y2) = (-41, 57) (x3, y3) = (21, -74). Color: yellow. Area = 2540.5
+918: It is Triangle: (x1, x2) = (97, -100) (x2, y2) = (23, -41) (x3, y3) = (71, -27). Color: blue. Area = 1934
+919: It is circle: (x1, x2) = (-11, 18) with radius = 12. Color: yellow. Area = 452.389
+920: It is Triangle: (x1, x2) = (44, -11) (x2, y2) = (76, -25) (x3, y3) = (-93, 20). Color: green. Area = 463
+921: It is circle: (x1, x2) = (-83, 15) with radius = 21. Color: red. Area = 1385.44
+922: It is Triangle: (x1, x2) = (-54, 90) (x2, y2) = (94, -48) (x3, y3) = (32, 92). Color: yellow. Area = 6082
+923: It is Triangle: (x1, x2) = (-43, -14) (x2, y2) = (-25, -100) (x3, y3) = (-80, 31). Color: red. Area = 1186
+924: It is circle: (x1, x2) = (18, 57) with radius = 39. Color: yellow. Area = 4778.36
+925: It is Rectangle: (x1, y1) = (-39, -38) (x2, y2)= (-4, -53). Color: orange. Area = 525
+926: It is circle: (x1, x2) = (61, -44) with radius = 82. Color: green. Area = 21124.1
+927: It is Rectangle: (x1, y1) = (38, 92) (x2, y2)= (82, 7). Color: blue. Area = 3740
+928: It is Rectangle: (x1, y1) = (-84, 64) (x2, y2)= (81, 18). Color: dark blue. Area = 7590
+929: It is Rectangle: (x1, y1) = (-88, 37) (x2, y2)= (-27, -16). Color: blue. Area = 3233
+930: It is Rectangle: (x1, y1) = (-34, -60) (x2, y2)= (-20, -75). Color: red. Area = 210
+931: It is Rectangle: (x1, y1) = (-81, -45) (x2, y2)= (85, -74). Color: dark blue. Area = 4814
+932: It is Triangle: (x1, x2) = (-94, 42) (x2, y2) = (-28, -94) (x3, y3) = (-94, -16). Color: none. Area = 1914
+933: It is Rectangle: (x1, y1) = (-87, -84) (x2, y2)= (46, -95). Color: orange. Area = 1463
+934: It is circle: (x1, x2) = (-50, -90) with radius = 42. Color: red. Area = 5541.77
+935: It is Triangle: (x1, x2) = (44, -91) (x2, y2) = (37, 62) (x3, y3) = (-27, -35). Color: dark blue. Area = 5235.5
+936: It is Triangle: (x1, x2) = (-81, 51) (x2, y2) = (12, 28) (x3, y3) = (60, 94). Color: dark blue. Area = 3621
+937: It is Triangle: (x1, x2) = (-92, -91) (x2, y2) = (-14, 5) (x3, y3) = (52, 12). Color: blue. Area = 2895
+938: It is Triangle: (x1, x2) = (89, -95) (x2, y2) = (47, -89) (x3, y3) = (-69, -82). Color: blue. Area = 201
+939: It is circle: (x1, x2) = (39, 19) with radius = 56. Color: yellow. Area = 9852.03
+940: It is circle: (x1, x2) = (-24, 85) with radius = 100. Color: yellow. Area = 31415.9
+941: It is Triangle: (x1, x2) = (39, -41) (x2, y2) = (61, 52) (x3, y3) = (49, 8). Color: dark blue. Area = 74
+942: It is circle: (x1, x2) = (-56, -59) with radius = 93. Color: yellow. Area = 27171.6
+943: It is Triangle: (x1, x2) = (45, 71) (x2, y2) = (-50, -49) (x3, y3) = (33, -3). Color: blue. Area = 2795
+944: It is Rectangle: (x1, y1) = (-60, -84) (x2, y2)= (-1, -96). Color: none. Area = 708
+945: It is Triangle: (x1, x2) = (-57, 75) (x2, y2) = (-66, 6) (x3, y3) = (79, -19). Color: blue. Area = 5115
+946: It is Triangle: (x1, x2) = (-2, -65) (x2, y2) = (27, 12) (x3, y3) = (-16, 84). Color: dark blue. Area = 2699.5
+947: It is circle: (x1, x2) = (-49, 44) with radius = 71. Color: orange. Area = 15836.8
+948: It is circle: (x1, x2) = (41, -38) with radius = 25. Color: none. Area = 1963.5
+949: It is Rectangle: (x1, y1) = (64, 11) (x2, y2)= (67, -85). Color: red. Area = 288
+950: It is Triangle: (x1, x2) = (-45, -49) (x2, y2) = (72, 25) (x3, y3) = (-18, -23). Color: yellow. Area = 522
+951: It is Triangle: (x1, x2) = (-41, -77) (x2, y2) = (-98, -69) (x3, y3) = (89, 14). Color: green. Area = 3113.5
+952: It is Triangle: (x1, x2) = (60, 98) (x2, y2) = (14, -32) (x3, y3) = (-18, -55). Color: green. Area = 1551
+953: It is Rectangle: (x1, y1) = (-73, -56) (x2, y2)= (-23, -92). Color: violet. Area = 1800
+954: It is Rectangle: (x1, y1) = (17, 44) (x2, y2)= (27, 6). Color: green. Area = 380
+955: It is Triangle: (x1, x2) = (70, -12) (x2, y2) = (75, 25) (x3, y3) = (29, -73). Color: violet. Area = 606
+956: It is Rectangle: (x1, y1) = (-80, 18) (x2, y2)= (37, 4). Color: violet. Area = 1638
+957: It is Triangle: (x1, x2) = (92, 57) (x2, y2) = (0, -5) (x3, y3) = (-8, -8). Color: dark blue. Area = 110
+958: It is Triangle: (x1, x2) = (-52, 55) (x2, y2) = (-74, -3) (x3, y3) = (73, 45). Color: yellow. Area = 3735
+959: It is Rectangle: (x1, y1) = (-100, -51) (x2, y2)= (13, -81). Color: blue. Area = 3390
+960: It is circle: (x1, x2) = (-60, 77) with radius = 54. Color: orange. Area = 9160.88
+961: It is circle: (x1, x2) = (60, 38) with radius = 93. Color: violet. Area = 27171.6
+962: It is circle: (x1, x2) = (66, -93) with radius = 46. Color: green. Area = 6647.61
+963: It is Triangle: (x1, x2) = (-98, 21) (x2, y2) = (-56, 34) (x3, y3) = (-58, -34). Color: blue. Area = 1415
+964: It is Rectangle: (x1, y1) = (-47, -20) (x2, y2)= (0, -41). Color: red. Area = 987
+965: It is circle: (x1, x2) = (-36, 44) with radius = 43. Color: violet. Area = 5808.8
+966: It is Triangle: (x1, x2) = (-18, -57) (x2, y2) = (65, -49) (x3, y3) = (41, -83). Color: green. Area = 1315
+967: It is circle: (x1, x2) = (3, -3) with radius = 14. Color: blue. Area = 615.752
+968: It is Triangle: (x1, x2) = (68, -97) (x2, y2) = (79, 14) (x3, y3) = (-87, -42). Color: yellow. Area = 8905
+969: It is Rectangle: (x1, y1) = (-6, 20) (x2, y2)= (15, -63). Color: none. Area = 1743
+970: It is circle: (x1, x2) = (-89, 56) with radius = 95. Color: dark blue. Area = 28352.9
+971: It is circle: (x1, x2) = (-55, -87) with radius = 37. Color: red. Area = 4300.84
+972: It is Triangle: (x1, x2) = (32, 33) (x2, y2) = (78, 22) (x3, y3) = (-43, 66). Color: violet. Area = 346.5
+973: It is Triangle: (x1, x2) = (5, -96) (x2, y2) = (52, 0) (x3, y3) = (26, 19). Color: dark blue. Area = 1694.5
+974: It is Triangle: (x1, x2) = (-29, -18) (x2, y2) = (-86, 75) (x3, y3) = (-3, -11). Color: yellow. Area = 1408.5
+975: It is Rectangle: (x1, y1) = (-54, 15) (x2, y2)= (-32, -81). Color: yellow. Area = 2112
+976: It is circle: (x1, x2) = (46, -39) with radius = 97. Color: blue. Area = 29559.2
+977: It is circle: (x1, x2) = (4, 36) with radius = 89. Color: dark blue. Area = 24884.6
+978: It is Rectangle: (x1, y1) = (22, 66) (x2, y2)= (75, 31). Color: yellow. Area = 1855
+979: It is Rectangle: (x1, y1) = (83, -9) (x2, y2)= (91, -44). Color: orange. Area = 280
+980: It is circle: (x1, x2) = (15, -86) with radius = 41. Color: green. Area = 5281.02
+981: It is Triangle: (x1, x2) = (45, -90) (x2, y2) = (78, 12) (x3, y3) = (-23, 42). Color: blue. Area = 5646
+982: It is Rectangle: (x1, y1) = (23, 15) (x2, y2)= (96, -69). Color: dark blue. Area = 6132
+983: It is circle: (x1, x2) = (-25, 77) with radius = 28. Color: green. Area = 2463.01
+984: It is Triangle: (x1, x2) = (-65, 72) (x2, y2) = (78, 20) (x3, y3) = (-78, 90). Color: dark blue. Area = 949
+985: It is circle: (x1, x2) = (-92, -23) with radius = 79. Color: dark blue. Area = 19606.7
+986: It is Rectangle: (x1, y1) = (-95, 95) (x2, y2)= (99, 44). Color: violet. Area = 9894
+987: It is Triangle: (x1, x2) = (-50, -25) (x2, y2) = (-14, 15) (x3, y3) = (-96, -32). Color: blue. Area = 794
+988: It is Rectangle: (x1, y1) = (55, 88) (x2, y2)= (80, -23). Color: green. Area = 2775
+989: It is Triangle: (x1, x2) = (26, -78) (x2, y2) = (-78, -62) (x3, y3) = (78, 64). Color: none. Area = 7800
+990: It is circle: (x1, x2) = (-23, 10) with radius = 65. Color: blue. Area = 13273.2
+991: It is circle: (x1, x2) = (-31, 86) with radius = 96. Color: green. Area = 28952.9
+992: It is circle: (x1, x2) = (82, 11) with radius = 14. Color: yellow. Area = 615.752
+993: It is circle: (x1, x2) = (33, 78) with radius = 45. Color: orange. Area = 6361.73
+994: It is Triangle: (x1, x2) = (23, -91) (x2, y2) = (37, -39) (x3, y3) = (-4, -54). Color: green. Area = 961
+995: It is circle: (x1, x2) = (4, 4) with radius = 36. Color: red. Area = 4071.5
+996: It is Rectangle: (x1, y1) = (15, -12) (x2, y2)= (89, -14). Color: orange. Area = 148
+997: It is Rectangle: (x1, y1) = (-48, -11) (x2, y2)= (-15, -56). Color: red. Area = 1485
+998: It is Rectangle: (x1, y1) = (-7, 68) (x2, y2)= (28, 38). Color: violet. Area = 1050
+999: It is Rectangle: (x1, y1) = (26, 70) (x2, y2)= (66, -27). Color: yellow. Area = 3880
+1000: It is Triangle: (x1, x2) = (91, 46) (x2, y2) = (-8, -51) (x3, y3) = (-26, 83). Color: green. Area = 7506

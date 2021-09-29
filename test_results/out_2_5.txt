@@ -1,0 +1,7 @@
+Sorted container:
+Container contains 5 elements.
+1: It is Rectangle: (x1, y1) = (-44, -65) (x2, y2)= (-41, -80). Color: violet. Area = 45
+2: It is circle: (x1, x2) = (97, -41) with radius = 24. Color: dark blue. Area = 1809.56
+3: It is Triangle: (x1, x2) = (-9, 69) (x2, y2) = (-77, 87) (x3, y3) = (-50, -92). Color: dark blue. Area = 5843
+4: It is Rectangle: (x1, y1) = (7, 81) (x2, y2)= (59, -76). Color: yellow. Area = 8164
+5: It is Triangle: (x1, x2) = (-78, -67) (x2, y2) = (-63, 99) (x3, y3) = (52, -37). Color: green. Area = 10565
