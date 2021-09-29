@@ -37,8 +37,8 @@ int main(int argc, char* argv[]) {
         try {
             In(c, ifst);
         }
-        catch (invalid_argument c){
-            std::printf(c.what());
+        catch (invalid_argument e){
+            printf(e.what());
             return 3;
         }
     }
@@ -74,7 +74,7 @@ int main(int argc, char* argv[]) {
     ofst2 << "Sorted container:\n";
     Out(c, ofst2);
 
-    //Clear(c);
+    Clear(c);
     printf("Stop\n");
     return 0;
 }
